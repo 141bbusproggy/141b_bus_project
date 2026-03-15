@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright Unitrans ASUCD/City of Davis 2026.">
+<predictions agencyTitle="Unitrans ASUCD/City of Davis" routeTitle="C" routeTag="C" stopTitle="Silo Terminal &amp; Center Island (WB)" stopTag="22256">
+  <direction title="Outbound to Wake Forest">
+  <prediction epochTime="1771860300000" seconds="1495" minutes="24" isDeparture="true" affectedByLayover="true" dirTag="C_0_var0" vehicle="LMU_4096" block="7" tripTag="C_11_outbound_0725" />
+  <prediction epochTime="1771863900000" seconds="5095" minutes="84" isDeparture="true" affectedByLayover="true" dirTag="C_0_var0" vehicle="LMU_4096" block="7" tripTag="C_11_outbound_0825" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Unitrans ASUCD/City of Davis" routeTitle="Vl" routeTag="VL" stopTitle="Silo Terminal &amp; Center Island (WB)" stopTag="22256">
+  <direction title="Outbound to West Village - No Service to The Green (limited)">
+  <prediction epochTime="1771860300000" seconds="1495" minutes="24" isDeparture="true" affectedByLayover="true" dirTag="VL_0_var0" vehicle="LMU_8114" block="10" tripTag="VL_11_outbound_0725" />
+  <prediction epochTime="1771862100000" seconds="3295" minutes="54" isDeparture="true" affectedByLayover="true" dirTag="VL_0_var0" vehicle="LMU_8114" block="10" tripTag="VL_11_outbound_0755" />
+  <prediction epochTime="1771863900000" seconds="5095" minutes="84" isDeparture="true" affectedByLayover="true" dirTag="VL_0_var0" vehicle="LMU_8114" block="10" tripTag="VL_11_outbound_0825" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Unitrans ASUCD/City of Davis" routeTitle="V" routeTag="V" stopTitle="Silo Terminal &amp; Center Island (WB)" stopTag="22256" dirTitleBecauseNoPredictions="Outbound to West Village (all Stops)">
+</predictions>
+<predictions agencyTitle="Unitrans ASUCD/City of Davis" routeTitle="Vx" routeTag="VX" stopTitle="Silo Terminal &amp; Center Island (WB)" stopTag="22256">
+  <direction title="Outbound to The Green Only (express)">
+  <prediction epochTime="1771860300000" seconds="1495" minutes="24" isDeparture="true" affectedByLayover="true" dirTag="VX_0_var0" vehicle="LMU_8113" block="9" tripTag="VX_11_outbound_0725" />
+  <prediction epochTime="1771862100000" seconds="3295" minutes="54" isDeparture="true" affectedByLayover="true" dirTag="VX_0_var0" vehicle="LMU_8113" block="9" tripTag="VX_11_outbound_0755" />
+  <prediction epochTime="1771863900000" seconds="5095" minutes="84" isDeparture="true" affectedByLayover="true" dirTag="VX_0_var0" vehicle="LMU_8113" block="9" tripTag="VX_11_outbound_0825" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Unitrans ASUCD/City of Davis" routeTitle="J" routeTag="J" stopTitle="Silo Terminal &amp; Center Island (WB)" stopTag="22256">
+  <direction title="Outbound to N Sycamore">
+  <prediction epochTime="1771859700000" seconds="895" minutes="14" isDeparture="true" affectedByLayover="true" dirTag="J_0_var0" vehicle="LMU_4021" block="4" tripTag="J_11_outbound_0715" />
+  <prediction epochTime="1771860900000" seconds="2095" minutes="34" isDeparture="true" affectedByLayover="true" dirTag="J_0_var0" vehicle="LMU_4091" block="3" tripTag="J_11_outbound_0735" />
+  <prediction epochTime="1771862100000" seconds="3295" minutes="54" isDeparture="true" affectedByLayover="true" dirTag="J_0_var0" vehicle="LMU_4021" block="4" tripTag="J_11_outbound_0755" />
+  <prediction epochTime="1771863300000" seconds="4495" minutes="74" isDeparture="true" affectedByLayover="true" dirTag="J_0_var0" vehicle="LMU_4091" block="3" tripTag="J_11_outbound_0815" />
+  <prediction epochTime="1771864500000" seconds="5695" minutes="94" isDeparture="true" affectedByLayover="true" dirTag="J_0_var0" vehicle="LMU_4021" block="4" tripTag="J_11_outbound_0835" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Unitrans ASUCD/City of Davis" routeTitle="D" routeTag="D" stopTitle="Silo Terminal &amp; Center Island (WB)" stopTag="22256">
+  <direction title="Outbound to Arlington">
+  <prediction epochTime="1771862100000" seconds="3295" minutes="54" isDeparture="true" affectedByLayover="true" dirTag="D_0_var0" vehicle="LMU_4096" block="7" tripTag="D_11_outbound_0755" />
+  </direction>
+</predictions>
+</body>
