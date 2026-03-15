@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright Unitrans ASUCD/City of Davis 2026.">
+  <route tag="T" title="T" scheduleClass="20251222" serviceClass="20260318" direction="To Davis Senior High School">
+    <header>
+      <stop tag="22169">Hutchison Drive &amp; Art Building (EB)</stop>
+      <stop tag="22004">Richards Blvd &amp; Olive Drive (SB)</stop>
+      <stop tag="22048">Cowell Blvd &amp; Drummond Avenue (EB)</stop>
+      <stop tag="22498">Schmeiser Ave &amp; Cowell Blvd (NB)</stop>
+      <stop tag="22352">Chiles Rd &amp; Mace Blvd (WB)</stop>
+      <stop tag="22236">Alhambra Drive &amp; Atlantis / Carcia (WB)</stop>
+      <stop tag="22375">Moore &amp; Pole Line Rd (WB)</stop>
+      <stop tag="22100">J St &amp; Drexel Drive/Holmes Junior High (SB)</stop>
+      <stop tag="22314_ar">Oak &amp; 14th Street/Davis High School (NB)</stop>
+    </header>
+    <tr blockID="72">
+      <stop tag="22169" epochTime="27000000">07:30:00</stop>
+      <stop tag="22004" epochTime="27180000">07:33:00</stop>
+      <stop tag="22048" epochTime="27540000">07:39:00</stop>
+      <stop tag="22498" epochTime="27900000">07:45:00</stop>
+      <stop tag="22352" epochTime="28140000">07:49:00</stop>
+      <stop tag="22236" epochTime="28440000">07:54:00</stop>
+      <stop tag="22375" epochTime="28740000">07:59:00</stop>
+      <stop tag="22100" epochTime="28980000">08:03:00</stop>
+      <stop tag="22314_ar" epochTime="30000000">08:20:00</stop>
+    </tr>
+    <tr blockID="71">
+      <stop tag="22169" epochTime="32100000">08:55:00</stop>
+      <stop tag="22004" epochTime="32280000">08:58:00</stop>
+      <stop tag="22048" epochTime="32640000">09:04:00</stop>
+      <stop tag="22498" epochTime="33000000">09:10:00</stop>
+      <stop tag="22352" epochTime="33240000">09:14:00</stop>
+      <stop tag="22236" epochTime="33540000">09:19:00</stop>
+      <stop tag="22375" epochTime="33840000">09:24:00</stop>
+      <stop tag="22100" epochTime="34080000">09:28:00</stop>
+      <stop tag="22314_ar" epochTime="35100000">09:45:00</stop>
+    </tr>
+  </route>
+  <route tag="T" title="T" scheduleClass="20251222" serviceClass="20260318" direction="To UCD Shields Library via South Davis">
+    <header>
+      <stop tag="22125">14th St &amp; Davis High School (WB)</stop>
+      <stop tag="22371">J St &amp; Drexel Drive/Holmes Junior High (NB)</stop>
+      <stop tag="22249">Moore Blvd &amp; Pole Line Rd (EB)</stop>
+      <stop tag="22067">Alhambra Drive &amp; 5th St (EB)</stop>
+      <stop tag="22061">Chiles Rd &amp; Mace Blvd El Macero/Nugget (EB)</stop>
+      <stop tag="22343">Cowell Blvd &amp; Schmeiser Ave (WB)</stop>
+      <stop tag="22047">Drummond Ave &amp; Cowell (SB)</stop>
+      <stop tag="22242">Richards Blvd &amp; Olive Drive (NB)</stop>
+      <stop tag="22168_ar">Hutchison Drive &amp; Shields Library (WB)</stop>
+    </header>
+    <tr blockID="71">
+      <stop tag="22125" epochTime="54300000">15:05:00</stop>
+      <stop tag="22371" epochTime="54660000">15:11:00</stop>
+      <stop tag="22249" epochTime="54900000">15:15:00</stop>
+      <stop tag="22067" epochTime="55200000">15:20:00</stop>
+      <stop tag="22061" epochTime="55500000">15:25:00</stop>
+      <stop tag="22343" epochTime="55740000">15:29:00</stop>
+      <stop tag="22047" epochTime="56100000">15:35:00</stop>
+      <stop tag="22242" epochTime="56520000">15:42:00</stop>
+      <stop tag="22168_ar" epochTime="56700000">15:45:00</stop>
+    </tr>
+    <tr blockID="72">
+      <stop tag="22125" epochTime="56400000">15:40:00</stop>
+      <stop tag="22371" epochTime="56760000">15:46:00</stop>
+      <stop tag="22249" epochTime="57000000">15:50:00</stop>
+      <stop tag="22067" epochTime="57300000">15:55:00</stop>
+      <stop tag="22061" epochTime="57600000">16:00:00</stop>
+      <stop tag="22343" epochTime="57840000">16:04:00</stop>
+      <stop tag="22047" epochTime="58200000">16:10:00</stop>
+      <stop tag="22242" epochTime="58620000">16:17:00</stop>
+      <stop tag="22168_ar" epochTime="58800000">16:20:00</stop>
+    </tr>
+  </route>
+  <route tag="T" title="T" scheduleClass="20251222" serviceClass="Friday" direction="To Davis Senior High School">
+    <header>
+      <stop tag="22169">Hutchison Drive &amp; Art Building (EB)</stop>
+      <stop tag="22004">Richards Blvd &amp; Olive Drive (SB)</stop>
+      <stop tag="22048">Cowell Blvd &amp; Drummond Avenue (EB)</stop>
+      <stop tag="22498">Schmeiser Ave &amp; Cowell Blvd (NB)</stop>
+      <stop tag="22352">Chiles Rd &amp; Mace Blvd (WB)</stop>
+      <stop tag="22236">Alhambra Drive &amp; Atlantis / Carcia (WB)</stop>
+      <stop tag="22375">Moore &amp; Pole Line Rd (WB)</stop>
+      <stop tag="22100">J St &amp; Drexel Drive/Holmes Junior High (SB)</stop>
+      <stop tag="22314_ar">Oak &amp; 14th Street/Davis High School (NB)</stop>
+    </header>
+    <tr blockID="72">
+      <stop tag="22169" epochTime="27000000">07:30:00</stop>
+      <stop tag="22004" epochTime="27180000">07:33:00</stop>
+      <stop tag="22048" epochTime="27540000">07:39:00</stop>
+      <stop tag="22498" epochTime="27900000">07:45:00</stop>
+      <stop tag="22352" epochTime="28140000">07:49:00</stop>
+      <stop tag="22236" epochTime="28440000">07:54:00</stop>
+      <stop tag="22375" epochTime="28740000">07:59:00</stop>
+      <stop tag="22100" epochTime="28980000">08:03:00</stop>
+      <stop tag="22314_ar" epochTime="30000000">08:20:00</stop>
+    </tr>
+  </route>
+  <route tag="T" title="T" scheduleClass="20251222" serviceClass="Friday" direction="To UCD Shields Library via South Davis">
+    <header>
+      <stop tag="22125">14th St &amp; Davis High School (WB)</stop>
+      <stop tag="22371">J St &amp; Drexel Drive/Holmes Junior High (NB)</stop>
+      <stop tag="22249">Moore Blvd &amp; Pole Line Rd (EB)</stop>
+      <stop tag="22067">Alhambra Drive &amp; 5th St (EB)</stop>
+      <stop tag="22061">Chiles Rd &amp; Mace Blvd El Macero/Nugget (EB)</stop>
+      <stop tag="22343">Cowell Blvd &amp; Schmeiser Ave (WB)</stop>
+      <stop tag="22047">Drummond Ave &amp; Cowell (SB)</stop>
+      <stop tag="22242">Richards Blvd &amp; Olive Drive (NB)</stop>
+      <stop tag="22168_ar">Hutchison Drive &amp; Shields Library (WB)</stop>
+    </header>
+    <tr blockID="72">
+      <stop tag="22125" epochTime="56400000">15:40:00</stop>
+      <stop tag="22371" epochTime="56760000">15:46:00</stop>
+      <stop tag="22249" epochTime="57000000">15:50:00</stop>
+      <stop tag="22067" epochTime="57300000">15:55:00</stop>
+      <stop tag="22061" epochTime="57600000">16:00:00</stop>
+      <stop tag="22343" epochTime="57840000">16:04:00</stop>
+      <stop tag="22047" epochTime="58200000">16:10:00</stop>
+      <stop tag="22242" epochTime="58620000">16:17:00</stop>
+      <stop tag="22168_ar" epochTime="58800000">16:20:00</stop>
+    </tr>
+  </route>
+  <route tag="T" title="T" scheduleClass="20251222" serviceClass="MoTuTh" direction="To Davis Senior High School">
+    <header>
+      <stop tag="22169">Hutchison Drive &amp; Art Building (EB)</stop>
+      <stop tag="22004">Richards Blvd &amp; Olive Drive (SB)</stop>
+      <stop tag="22048">Cowell Blvd &amp; Drummond Avenue (EB)</stop>
+      <stop tag="22498">Schmeiser Ave &amp; Cowell Blvd (NB)</stop>
+      <stop tag="22352">Chiles Rd &amp; Mace Blvd (WB)</stop>
+      <stop tag="22236">Alhambra Drive &amp; Atlantis / Carcia (WB)</stop>
+      <stop tag="22375">Moore &amp; Pole Line Rd (WB)</stop>
+      <stop tag="22100">J St &amp; Drexel Drive/Holmes Junior High (SB)</stop>
+      <stop tag="22314_ar">Oak &amp; 14th Street/Davis High School (NB)</stop>
+    </header>
+    <tr blockID="72">
+      <stop tag="22169" epochTime="27000000">07:30:00</stop>
+      <stop tag="22004" epochTime="27180000">07:33:00</stop>
+      <stop tag="22048" epochTime="27540000">07:39:00</stop>
+      <stop tag="22498" epochTime="27900000">07:45:00</stop>
+      <stop tag="22352" epochTime="28140000">07:49:00</stop>
+      <stop tag="22236" epochTime="28440000">07:54:00</stop>
+      <stop tag="22375" epochTime="28740000">07:59:00</stop>
+      <stop tag="22100" epochTime="28980000">08:03:00</stop>
+      <stop tag="22314_ar" epochTime="30000000">08:20:00</stop>
+    </tr>
+  </route>
+  <route tag="T" title="T" scheduleClass="20251222" serviceClass="MoTuTh" direction="To UCD Shields Library via South Davis">
+    <header>
+      <stop tag="22125">14th St &amp; Davis High School (WB)</stop>
+      <stop tag="22371">J St &amp; Drexel Drive/Holmes Junior High (NB)</stop>
+      <stop tag="22249">Moore Blvd &amp; Pole Line Rd (EB)</stop>
+      <stop tag="22067">Alhambra Drive &amp; 5th St (EB)</stop>
+      <stop tag="22061">Chiles Rd &amp; Mace Blvd El Macero/Nugget (EB)</stop>
+      <stop tag="22343">Cowell Blvd &amp; Schmeiser Ave (WB)</stop>
+      <stop tag="22047">Drummond Ave &amp; Cowell (SB)</stop>
+      <stop tag="22242">Richards Blvd &amp; Olive Drive (NB)</stop>
+      <stop tag="22168_ar">Hutchison Drive &amp; Shields Library (WB)</stop>
+    </header>
+    <tr blockID="72">
+      <stop tag="22125" epochTime="56400000">15:40:00</stop>
+      <stop tag="22371" epochTime="56760000">15:46:00</stop>
+      <stop tag="22249" epochTime="57000000">15:50:00</stop>
+      <stop tag="22067" epochTime="57300000">15:55:00</stop>
+      <stop tag="22061" epochTime="57600000">16:00:00</stop>
+      <stop tag="22343" epochTime="57840000">16:04:00</stop>
+      <stop tag="22047" epochTime="58200000">16:10:00</stop>
+      <stop tag="22242" epochTime="58620000">16:17:00</stop>
+      <stop tag="22168_ar" epochTime="58800000">16:20:00</stop>
+    </tr>
+  </route>
+  <route tag="T" title="T" scheduleClass="20251222" serviceClass="Service03" direction="To Davis Senior High School">
+    <header>
+      <stop tag="22169">Hutchison Drive &amp; Art Building (EB)</stop>
+      <stop tag="22004">Richards Blvd &amp; Olive Drive (SB)</stop>
+      <stop tag="22048">Cowell Blvd &amp; Drummond Avenue (EB)</stop>
+      <stop tag="22498">Schmeiser Ave &amp; Cowell Blvd (NB)</stop>
+      <stop tag="22352">Chiles Rd &amp; Mace Blvd (WB)</stop>
+      <stop tag="22236">Alhambra Drive &amp; Atlantis / Carcia (WB)</stop>
+      <stop tag="22375">Moore &amp; Pole Line Rd (WB)</stop>
+      <stop tag="22100">J St &amp; Drexel Drive/Holmes Junior High (SB)</stop>
+      <stop tag="22314_ar">Oak &amp; 14th Street/Davis High School (NB)</stop>
+    </header>
+    <tr blockID="72">
+      <stop tag="22169" epochTime="27000000">07:30:00</stop>
+      <stop tag="22004" epochTime="27180000">07:33:00</stop>
+      <stop tag="22048" epochTime="27540000">07:39:00</stop>
+      <stop tag="22498" epochTime="27900000">07:45:00</stop>
+      <stop tag="22352" epochTime="28140000">07:49:00</stop>
+      <stop tag="22236" epochTime="28440000">07:54:00</stop>
+      <stop tag="22375" epochTime="28740000">07:59:00</stop>
+      <stop tag="22100" epochTime="28980000">08:03:00</stop>
+      <stop tag="22314_ar" epochTime="30000000">08:20:00</stop>
+    </tr>
+  </route>
+  <route tag="T" title="T" scheduleClass="20251222" serviceClass="Service03" direction="To UCD Shields Library via South Davis">
+    <header>
+      <stop tag="22125">14th St &amp; Davis High School (WB)</stop>
+      <stop tag="22371">J St &amp; Drexel Drive/Holmes Junior High (NB)</stop>
+      <stop tag="22249">Moore Blvd &amp; Pole Line Rd (EB)</stop>
+      <stop tag="22067">Alhambra Drive &amp; 5th St (EB)</stop>
+      <stop tag="22061">Chiles Rd &amp; Mace Blvd El Macero/Nugget (EB)</stop>
+      <stop tag="22343">Cowell Blvd &amp; Schmeiser Ave (WB)</stop>
+      <stop tag="22047">Drummond Ave &amp; Cowell (SB)</stop>
+      <stop tag="22242">Richards Blvd &amp; Olive Drive (NB)</stop>
+      <stop tag="22168_ar">Hutchison Drive &amp; Shields Library (WB)</stop>
+    </header>
+    <tr blockID="72">
+      <stop tag="22125" epochTime="56400000">15:40:00</stop>
+      <stop tag="22371" epochTime="56760000">15:46:00</stop>
+      <stop tag="22249" epochTime="57000000">15:50:00</stop>
+      <stop tag="22067" epochTime="57300000">15:55:00</stop>
+      <stop tag="22061" epochTime="57600000">16:00:00</stop>
+      <stop tag="22343" epochTime="57840000">16:04:00</stop>
+      <stop tag="22047" epochTime="58200000">16:10:00</stop>
+      <stop tag="22242" epochTime="58620000">16:17:00</stop>
+      <stop tag="22168_ar" epochTime="58800000">16:20:00</stop>
+    </tr>
+  </route>
+  <route tag="T" title="T" scheduleClass="20251222" serviceClass="Wednesday" direction="To Davis Senior High School">
+    <header>
+      <stop tag="22169">Hutchison Drive &amp; Art Building (EB)</stop>
+      <stop tag="22004">Richards Blvd &amp; Olive Drive (SB)</stop>
+      <stop tag="22048">Cowell Blvd &amp; Drummond Avenue (EB)</stop>
+      <stop tag="22498">Schmeiser Ave &amp; Cowell Blvd (NB)</stop>
+      <stop tag="22352">Chiles Rd &amp; Mace Blvd (WB)</stop>
+      <stop tag="22236">Alhambra Drive &amp; Atlantis / Carcia (WB)</stop>
+      <stop tag="22375">Moore &amp; Pole Line Rd (WB)</stop>
+      <stop tag="22100">J St &amp; Drexel Drive/Holmes Junior High (SB)</stop>
+      <stop tag="22314_ar">Oak &amp; 14th Street/Davis High School (NB)</stop>
+    </header>
+    <tr blockID="72">
+      <stop tag="22169" epochTime="27000000">07:30:00</stop>
+      <stop tag="22004" epochTime="27180000">07:33:00</stop>
+      <stop tag="22048" epochTime="27540000">07:39:00</stop>
+      <stop tag="22498" epochTime="27900000">07:45:00</stop>
+      <stop tag="22352" epochTime="28140000">07:49:00</stop>
+      <stop tag="22236" epochTime="28440000">07:54:00</stop>
+      <stop tag="22375" epochTime="28740000">07:59:00</stop>
+      <stop tag="22100" epochTime="28980000">08:03:00</stop>
+      <stop tag="22314_ar" epochTime="30000000">08:20:00</stop>
+    </tr>
+    <tr blockID="71">
+      <stop tag="22169" epochTime="32100000">08:55:00</stop>
+      <stop tag="22004" epochTime="32280000">08:58:00</stop>
+      <stop tag="22048" epochTime="32640000">09:04:00</stop>
+      <stop tag="22498" epochTime="33000000">09:10:00</stop>
+      <stop tag="22352" epochTime="33240000">09:14:00</stop>
+      <stop tag="22236" epochTime="33540000">09:19:00</stop>
+      <stop tag="22375" epochTime="33840000">09:24:00</stop>
+      <stop tag="22100" epochTime="34080000">09:28:00</stop>
+      <stop tag="22314_ar" epochTime="35100000">09:45:00</stop>
+    </tr>
+  </route>
+  <route tag="T" title="T" scheduleClass="20251222" serviceClass="Wednesday" direction="To UCD Shields Library via South Davis">
+    <header>
+      <stop tag="22125">14th St &amp; Davis High School (WB)</stop>
+      <stop tag="22371">J St &amp; Drexel Drive/Holmes Junior High (NB)</stop>
+      <stop tag="22249">Moore Blvd &amp; Pole Line Rd (EB)</stop>
+      <stop tag="22067">Alhambra Drive &amp; 5th St (EB)</stop>
+      <stop tag="22061">Chiles Rd &amp; Mace Blvd El Macero/Nugget (EB)</stop>
+      <stop tag="22343">Cowell Blvd &amp; Schmeiser Ave (WB)</stop>
+      <stop tag="22047">Drummond Ave &amp; Cowell (SB)</stop>
+      <stop tag="22242">Richards Blvd &amp; Olive Drive (NB)</stop>
+      <stop tag="22168_ar">Hutchison Drive &amp; Shields Library (WB)</stop>
+    </header>
+    <tr blockID="71">
+      <stop tag="22125" epochTime="54300000">15:05:00</stop>
+      <stop tag="22371" epochTime="54660000">15:11:00</stop>
+      <stop tag="22249" epochTime="54900000">15:15:00</stop>
+      <stop tag="22067" epochTime="55200000">15:20:00</stop>
+      <stop tag="22061" epochTime="55500000">15:25:00</stop>
+      <stop tag="22343" epochTime="55740000">15:29:00</stop>
+      <stop tag="22047" epochTime="56100000">15:35:00</stop>
+      <stop tag="22242" epochTime="56520000">15:42:00</stop>
+      <stop tag="22168_ar" epochTime="56700000">15:45:00</stop>
+    </tr>
+    <tr blockID="72">
+      <stop tag="22125" epochTime="56400000">15:40:00</stop>
+      <stop tag="22371" epochTime="56760000">15:46:00</stop>
+      <stop tag="22249" epochTime="57000000">15:50:00</stop>
+      <stop tag="22067" epochTime="57300000">15:55:00</stop>
+      <stop tag="22061" epochTime="57600000">16:00:00</stop>
+      <stop tag="22343" epochTime="57840000">16:04:00</stop>
+      <stop tag="22047" epochTime="58200000">16:10:00</stop>
+      <stop tag="22242" epochTime="58620000">16:17:00</stop>
+      <stop tag="22168_ar" epochTime="58800000">16:20:00</stop>
+    </tr>
+  </route>
+</body>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright Unitrans ASUCD/City of Davis 2026.">
+  <route tag="FMS" title="Fms" scheduleClass="20251222" serviceClass="Saturday" direction="Inbound to Farmers Market">
+    <header>
+      <stop tag="22274">Memorial Union &amp; East Island (SB)</stop>
+      <stop tag="22005">2nd St &amp; B St (EB)</stop>
+      <stop tag="22013_ar">B St &amp; 4th St / Central Park (NB)</stop>
+    </header>
+    <tr blockID="69">
+      <stop tag="22274" epochTime="32400000">09:00:00</stop>
+      <stop tag="22005" epochTime="32520000">09:02:00</stop>
+      <stop tag="22013_ar" epochTime="33000000">09:10:00</stop>
+    </tr>
+    <tr blockID="69">
+      <stop tag="22274" epochTime="33900000">09:25:00</stop>
+      <stop tag="22005" epochTime="34020000">09:27:00</stop>
+      <stop tag="22013_ar" epochTime="34500000">09:35:00</stop>
+    </tr>
+    <tr blockID="69">
+      <stop tag="22274" epochTime="35400000">09:50:00</stop>
+      <stop tag="22005" epochTime="35520000">09:52:00</stop>
+      <stop tag="22013_ar" epochTime="36000000">10:00:00</stop>
+    </tr>
+    <tr blockID="69">
+      <stop tag="22274" epochTime="36900000">10:15:00</stop>
+      <stop tag="22005" epochTime="37020000">10:17:00</stop>
+      <stop tag="22013_ar" epochTime="37500000">10:25:00</stop>
+    </tr>
+    <tr blockID="69">
+      <stop tag="22274" epochTime="38400000">10:40:00</stop>
+      <stop tag="22005" epochTime="38520000">10:42:00</stop>
+      <stop tag="22013_ar" epochTime="39000000">10:50:00</stop>
+    </tr>
+    <tr blockID="69">
+      <stop tag="22274" epochTime="39900000">11:05:00</stop>
+      <stop tag="22005" epochTime="40020000">11:07:00</stop>
+      <stop tag="22013_ar" epochTime="40500000">11:15:00</stop>
+    </tr>
+    <tr blockID="69">
+      <stop tag="22274" epochTime="41400000">11:30:00</stop>
+      <stop tag="22005" epochTime="41520000">11:32:00</stop>
+      <stop tag="22013_ar" epochTime="42000000">11:40:00</stop>
+    </tr>
+    <tr blockID="69">
+      <stop tag="22274" epochTime="42900000">11:55:00</stop>
+      <stop tag="22005" epochTime="43020000">11:57:00</stop>
+      <stop tag="22013_ar" epochTime="43500000">12:05:00</stop>
+    </tr>
+    <tr blockID="69">
+      <stop tag="22274" epochTime="44400000">12:20:00</stop>
+      <stop tag="22005" epochTime="44520000">12:22:00</stop>
+      <stop tag="22013_ar" epochTime="45000000">12:30:00</stop>
+    </tr>
+  </route>
+  <route tag="FMS" title="Fms" scheduleClass="20251222" serviceClass="Saturday" direction="Outbound to Uc Davis Mu Terminal">
+    <header>
+      <stop tag="22013">B St &amp; 4th St / Central Park (NB)</stop>
+      <stop tag="22274_ar">Memorial Union &amp; East Island (SB)</stop>
+    </header>
+    <tr blockID="69">
+      <stop tag="22013" epochTime="33600000">09:20:00</stop>
+      <stop tag="22274_ar" epochTime="33900000">09:25:00</stop>
+    </tr>
+    <tr blockID="69">
+      <stop tag="22013" epochTime="35100000">09:45:00</stop>
+      <stop tag="22274_ar" epochTime="35400000">09:50:00</stop>
+    </tr>
+    <tr blockID="69">
+      <stop tag="22013" epochTime="36600000">10:10:00</stop>
+      <stop tag="22274_ar" epochTime="36900000">10:15:00</stop>
+    </tr>
+    <tr blockID="69">
+      <stop tag="22013" epochTime="38100000">10:35:00</stop>
+      <stop tag="22274_ar" epochTime="38400000">10:40:00</stop>
+    </tr>
+    <tr blockID="69">
+      <stop tag="22013" epochTime="39600000">11:00:00</stop>
+      <stop tag="22274_ar" epochTime="39900000">11:05:00</stop>
+    </tr>
+    <tr blockID="69">
+      <stop tag="22013" epochTime="41100000">11:25:00</stop>
+      <stop tag="22274_ar" epochTime="41400000">11:30:00</stop>
+    </tr>
+    <tr blockID="69">
+      <stop tag="22013" epochTime="42600000">11:50:00</stop>
+      <stop tag="22274_ar" epochTime="42900000">11:55:00</stop>
+    </tr>
+    <tr blockID="69">
+      <stop tag="22013" epochTime="44100000">12:15:00</stop>
+      <stop tag="22274_ar" epochTime="44400000">12:20:00</stop>
+    </tr>
+  </route>
+</body>

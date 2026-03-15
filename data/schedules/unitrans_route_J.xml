@@ -1,0 +1,3209 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright Unitrans ASUCD/City of Davis 2026.">
+  <route tag="J" title="J" scheduleClass="20251222" serviceClass="20260318" direction="Inbound to UCD Silo">
+    <header>
+      <stop tag="22144">North Sycamore Loop (NB)</stop>
+      <stop tag="22137">Alvarado Ave &amp; Sycamore (EB)</stop>
+      <stop tag="22135">Alvarado Ave &amp; Anderson (EB)</stop>
+      <stop tag="22155">Anderson Rd &amp; Hanover Drive/Anderson Plaza/SaveMart (SB)</stop>
+      <stop tag="22159">Anderson Rd &amp; Russell Blvd (SB)</stop>
+      <stop tag="22256_ar">Silo Terminal &amp; Center Island (WB)</stop>
+    </header>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="25020000">06:57:00</stop>
+      <stop tag="22137" epochTime="25140000">06:59:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="25320000">07:02:00</stop>
+      <stop tag="22159" epochTime="25440000">07:04:00</stop>
+      <stop tag="22256_ar" epochTime="26100000">07:15:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="-1">--</stop>
+      <stop tag="22137" epochTime="-1">--</stop>
+      <stop tag="22135" epochTime="27000000">07:30:00</stop>
+      <stop tag="22155" epochTime="27120000">07:32:00</stop>
+      <stop tag="22159" epochTime="27240000">07:34:00</stop>
+      <stop tag="22256_ar" epochTime="28200000">07:50:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="26820000">07:27:00</stop>
+      <stop tag="22137" epochTime="26940000">07:29:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="-1">--</stop>
+      <stop tag="22159" epochTime="-1">--</stop>
+      <stop tag="22256_ar" epochTime="28200000">07:50:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="28020000">07:47:00</stop>
+      <stop tag="22137" epochTime="28140000">07:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="28320000">07:52:00</stop>
+      <stop tag="22159" epochTime="28440000">07:54:00</stop>
+      <stop tag="22256_ar" epochTime="29100000">08:05:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="29220000">08:07:00</stop>
+      <stop tag="22137" epochTime="29340000">08:09:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="29520000">08:12:00</stop>
+      <stop tag="22159" epochTime="29640000">08:14:00</stop>
+      <stop tag="22256_ar" epochTime="30300000">08:25:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="30420000">08:27:00</stop>
+      <stop tag="22137" epochTime="30540000">08:29:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="30720000">08:32:00</stop>
+      <stop tag="22159" epochTime="30840000">08:34:00</stop>
+      <stop tag="22256_ar" epochTime="31500000">08:45:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="31620000">08:47:00</stop>
+      <stop tag="22137" epochTime="31740000">08:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="31920000">08:52:00</stop>
+      <stop tag="22159" epochTime="32040000">08:54:00</stop>
+      <stop tag="22256_ar" epochTime="32700000">09:05:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="33120000">09:12:00</stop>
+      <stop tag="22137" epochTime="33240000">09:14:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="33420000">09:17:00</stop>
+      <stop tag="22159" epochTime="33540000">09:19:00</stop>
+      <stop tag="22256_ar" epochTime="34200000">09:30:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="34320000">09:32:00</stop>
+      <stop tag="22137" epochTime="34440000">09:34:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="34620000">09:37:00</stop>
+      <stop tag="22159" epochTime="34740000">09:39:00</stop>
+      <stop tag="22256_ar" epochTime="35400000">09:50:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="-1">--</stop>
+      <stop tag="22137" epochTime="-1">--</stop>
+      <stop tag="22135" epochTime="35700000">09:55:00</stop>
+      <stop tag="22155" epochTime="35820000">09:57:00</stop>
+      <stop tag="22159" epochTime="35940000">09:59:00</stop>
+      <stop tag="22256_ar" epochTime="36600000">10:10:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="35520000">09:52:00</stop>
+      <stop tag="22137" epochTime="35640000">09:54:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="-1">--</stop>
+      <stop tag="22159" epochTime="-1">--</stop>
+      <stop tag="22256_ar" epochTime="36600000">10:10:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="36720000">10:12:00</stop>
+      <stop tag="22137" epochTime="36840000">10:14:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="37020000">10:17:00</stop>
+      <stop tag="22159" epochTime="37140000">10:19:00</stop>
+      <stop tag="22256_ar" epochTime="37800000">10:30:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="37920000">10:32:00</stop>
+      <stop tag="22137" epochTime="38040000">10:34:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="38220000">10:37:00</stop>
+      <stop tag="22159" epochTime="38340000">10:39:00</stop>
+      <stop tag="22256_ar" epochTime="39000000">10:50:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="39120000">10:52:00</stop>
+      <stop tag="22137" epochTime="39240000">10:54:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="39420000">10:57:00</stop>
+      <stop tag="22159" epochTime="39540000">10:59:00</stop>
+      <stop tag="22256_ar" epochTime="40200000">11:10:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="40320000">11:12:00</stop>
+      <stop tag="22137" epochTime="40440000">11:14:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="40620000">11:17:00</stop>
+      <stop tag="22159" epochTime="40740000">11:19:00</stop>
+      <stop tag="22256_ar" epochTime="41400000">11:30:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="41520000">11:32:00</stop>
+      <stop tag="22137" epochTime="41640000">11:34:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="41820000">11:37:00</stop>
+      <stop tag="22159" epochTime="41940000">11:39:00</stop>
+      <stop tag="22256_ar" epochTime="42600000">11:50:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="42720000">11:52:00</stop>
+      <stop tag="22137" epochTime="42840000">11:54:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="43020000">11:57:00</stop>
+      <stop tag="22159" epochTime="43140000">11:59:00</stop>
+      <stop tag="22256_ar" epochTime="43800000">12:10:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="44520000">12:22:00</stop>
+      <stop tag="22137" epochTime="44640000">12:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="44820000">12:27:00</stop>
+      <stop tag="22159" epochTime="44940000">12:29:00</stop>
+      <stop tag="22256_ar" epochTime="45600000">12:40:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="45720000">12:42:00</stop>
+      <stop tag="22137" epochTime="45840000">12:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="46020000">12:47:00</stop>
+      <stop tag="22159" epochTime="46140000">12:49:00</stop>
+      <stop tag="22256_ar" epochTime="46800000">13:00:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="46920000">13:02:00</stop>
+      <stop tag="22137" epochTime="47040000">13:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="47220000">13:07:00</stop>
+      <stop tag="22159" epochTime="47340000">13:09:00</stop>
+      <stop tag="22256_ar" epochTime="48000000">13:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="48120000">13:22:00</stop>
+      <stop tag="22137" epochTime="48240000">13:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="48420000">13:27:00</stop>
+      <stop tag="22159" epochTime="48540000">13:29:00</stop>
+      <stop tag="22256_ar" epochTime="49200000">13:40:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="49320000">13:42:00</stop>
+      <stop tag="22137" epochTime="49440000">13:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="49620000">13:47:00</stop>
+      <stop tag="22159" epochTime="49740000">13:49:00</stop>
+      <stop tag="22256_ar" epochTime="50400000">14:00:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="50520000">14:02:00</stop>
+      <stop tag="22137" epochTime="50640000">14:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="50820000">14:07:00</stop>
+      <stop tag="22159" epochTime="50940000">14:09:00</stop>
+      <stop tag="22256_ar" epochTime="51600000">14:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="51720000">14:22:00</stop>
+      <stop tag="22137" epochTime="51840000">14:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="52020000">14:27:00</stop>
+      <stop tag="22159" epochTime="52140000">14:29:00</stop>
+      <stop tag="22256_ar" epochTime="52800000">14:40:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="52920000">14:42:00</stop>
+      <stop tag="22137" epochTime="53040000">14:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="53220000">14:47:00</stop>
+      <stop tag="22159" epochTime="53340000">14:49:00</stop>
+      <stop tag="22256_ar" epochTime="54000000">15:00:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="54120000">15:02:00</stop>
+      <stop tag="22137" epochTime="54240000">15:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="54420000">15:07:00</stop>
+      <stop tag="22159" epochTime="54540000">15:09:00</stop>
+      <stop tag="22256_ar" epochTime="55200000">15:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="55320000">15:22:00</stop>
+      <stop tag="22137" epochTime="55440000">15:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="55620000">15:27:00</stop>
+      <stop tag="22159" epochTime="55740000">15:29:00</stop>
+      <stop tag="22256_ar" epochTime="56400000">15:40:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="56520000">15:42:00</stop>
+      <stop tag="22137" epochTime="56640000">15:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="56820000">15:47:00</stop>
+      <stop tag="22159" epochTime="56940000">15:49:00</stop>
+      <stop tag="22256_ar" epochTime="57600000">16:00:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="57720000">16:02:00</stop>
+      <stop tag="22137" epochTime="57840000">16:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="58020000">16:07:00</stop>
+      <stop tag="22159" epochTime="58140000">16:09:00</stop>
+      <stop tag="22256_ar" epochTime="58800000">16:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="58920000">16:22:00</stop>
+      <stop tag="22137" epochTime="59040000">16:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="59220000">16:27:00</stop>
+      <stop tag="22159" epochTime="59340000">16:29:00</stop>
+      <stop tag="22256_ar" epochTime="60000000">16:40:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="60120000">16:42:00</stop>
+      <stop tag="22137" epochTime="60240000">16:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="60420000">16:47:00</stop>
+      <stop tag="22159" epochTime="60540000">16:49:00</stop>
+      <stop tag="22256_ar" epochTime="61200000">17:00:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="61320000">17:02:00</stop>
+      <stop tag="22137" epochTime="61440000">17:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="61620000">17:07:00</stop>
+      <stop tag="22159" epochTime="61740000">17:09:00</stop>
+      <stop tag="22256_ar" epochTime="62400000">17:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="62520000">17:22:00</stop>
+      <stop tag="22137" epochTime="62640000">17:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="62820000">17:27:00</stop>
+      <stop tag="22159" epochTime="62940000">17:29:00</stop>
+      <stop tag="22256_ar" epochTime="63600000">17:40:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="63720000">17:42:00</stop>
+      <stop tag="22137" epochTime="63840000">17:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="64020000">17:47:00</stop>
+      <stop tag="22159" epochTime="64140000">17:49:00</stop>
+      <stop tag="22256_ar" epochTime="64800000">18:00:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="64920000">18:02:00</stop>
+      <stop tag="22137" epochTime="65040000">18:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="65220000">18:07:00</stop>
+      <stop tag="22159" epochTime="65340000">18:09:00</stop>
+      <stop tag="22256_ar" epochTime="66000000">18:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="66120000">18:22:00</stop>
+      <stop tag="22137" epochTime="66240000">18:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="66420000">18:27:00</stop>
+      <stop tag="22159" epochTime="66540000">18:29:00</stop>
+      <stop tag="22256_ar" epochTime="67200000">18:40:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="67320000">18:42:00</stop>
+      <stop tag="22137" epochTime="67440000">18:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="67620000">18:47:00</stop>
+      <stop tag="22159" epochTime="67740000">18:49:00</stop>
+      <stop tag="22256_ar" epochTime="68400000">19:00:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="69720000">19:22:00</stop>
+      <stop tag="22137" epochTime="69840000">19:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="70020000">19:27:00</stop>
+      <stop tag="22159" epochTime="70140000">19:29:00</stop>
+      <stop tag="22256_ar" epochTime="70500000">19:35:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="71220000">19:47:00</stop>
+      <stop tag="22137" epochTime="71340000">19:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="71520000">19:52:00</stop>
+      <stop tag="22159" epochTime="71640000">19:54:00</stop>
+      <stop tag="22256_ar" epochTime="72000000">20:00:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="73320000">20:22:00</stop>
+      <stop tag="22137" epochTime="73440000">20:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="73620000">20:27:00</stop>
+      <stop tag="22159" epochTime="73740000">20:29:00</stop>
+      <stop tag="22256_ar" epochTime="74100000">20:35:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="74820000">20:47:00</stop>
+      <stop tag="22137" epochTime="74940000">20:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="75120000">20:52:00</stop>
+      <stop tag="22159" epochTime="75240000">20:54:00</stop>
+      <stop tag="22256_ar" epochTime="75600000">21:00:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="76920000">21:22:00</stop>
+      <stop tag="22137" epochTime="77040000">21:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="77220000">21:27:00</stop>
+      <stop tag="22159" epochTime="77340000">21:29:00</stop>
+      <stop tag="22256_ar" epochTime="77700000">21:35:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="78420000">21:47:00</stop>
+      <stop tag="22137" epochTime="78540000">21:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="78720000">21:52:00</stop>
+      <stop tag="22159" epochTime="78840000">21:54:00</stop>
+      <stop tag="22256_ar" epochTime="79200000">22:00:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="80520000">22:22:00</stop>
+      <stop tag="22137" epochTime="80640000">22:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="80820000">22:27:00</stop>
+      <stop tag="22159" epochTime="80940000">22:29:00</stop>
+      <stop tag="22256_ar" epochTime="81300000">22:35:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="82020000">22:47:00</stop>
+      <stop tag="22137" epochTime="82140000">22:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="82320000">22:52:00</stop>
+      <stop tag="22159" epochTime="82440000">22:54:00</stop>
+      <stop tag="22256_ar" epochTime="83100000">23:05:00</stop>
+    </tr>
+  </route>
+  <route tag="J" title="J" scheduleClass="20251222" serviceClass="20260318" direction="Outbound to N Sycamore">
+    <header>
+      <stop tag="22256">Silo Terminal &amp; Center Island (WB)</stop>
+      <stop tag="22160">Anderson Rd &amp; Russell Blvd (NB)</stop>
+      <stop tag="22154">Anderson Rd &amp; Hanover Drive/Anderson Plaza/SaveMart (NB)</stop>
+      <stop tag="22144_ar">North Sycamore Loop (NB)</stop>
+    </header>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="26100000">07:15:00</stop>
+      <stop tag="22160" epochTime="26340000">07:19:00</stop>
+      <stop tag="22154" epochTime="26520000">07:22:00</stop>
+      <stop tag="22144_ar" epochTime="26820000">07:27:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="27300000">07:35:00</stop>
+      <stop tag="22160" epochTime="27540000">07:39:00</stop>
+      <stop tag="22154" epochTime="27720000">07:42:00</stop>
+      <stop tag="22144_ar" epochTime="28020000">07:47:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="28500000">07:55:00</stop>
+      <stop tag="22160" epochTime="28740000">07:59:00</stop>
+      <stop tag="22154" epochTime="28920000">08:02:00</stop>
+      <stop tag="22144_ar" epochTime="29220000">08:07:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="29700000">08:15:00</stop>
+      <stop tag="22160" epochTime="29940000">08:19:00</stop>
+      <stop tag="22154" epochTime="30120000">08:22:00</stop>
+      <stop tag="22144_ar" epochTime="30420000">08:27:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="30900000">08:35:00</stop>
+      <stop tag="22160" epochTime="31140000">08:39:00</stop>
+      <stop tag="22154" epochTime="31320000">08:42:00</stop>
+      <stop tag="22144_ar" epochTime="31620000">08:47:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="32400000">09:00:00</stop>
+      <stop tag="22160" epochTime="32640000">09:04:00</stop>
+      <stop tag="22154" epochTime="32820000">09:07:00</stop>
+      <stop tag="22144_ar" epochTime="33120000">09:12:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="33600000">09:20:00</stop>
+      <stop tag="22160" epochTime="33840000">09:24:00</stop>
+      <stop tag="22154" epochTime="34020000">09:27:00</stop>
+      <stop tag="22144_ar" epochTime="34320000">09:32:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="34800000">09:40:00</stop>
+      <stop tag="22160" epochTime="35040000">09:44:00</stop>
+      <stop tag="22154" epochTime="35220000">09:47:00</stop>
+      <stop tag="22144_ar" epochTime="35520000">09:52:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="36000000">10:00:00</stop>
+      <stop tag="22160" epochTime="36240000">10:04:00</stop>
+      <stop tag="22154" epochTime="36420000">10:07:00</stop>
+      <stop tag="22144_ar" epochTime="36720000">10:12:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="37200000">10:20:00</stop>
+      <stop tag="22160" epochTime="37440000">10:24:00</stop>
+      <stop tag="22154" epochTime="37620000">10:27:00</stop>
+      <stop tag="22144_ar" epochTime="37920000">10:32:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="38400000">10:40:00</stop>
+      <stop tag="22160" epochTime="38640000">10:44:00</stop>
+      <stop tag="22154" epochTime="38820000">10:47:00</stop>
+      <stop tag="22144_ar" epochTime="39120000">10:52:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="39600000">11:00:00</stop>
+      <stop tag="22160" epochTime="39840000">11:04:00</stop>
+      <stop tag="22154" epochTime="40020000">11:07:00</stop>
+      <stop tag="22144_ar" epochTime="40320000">11:12:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="40800000">11:20:00</stop>
+      <stop tag="22160" epochTime="41040000">11:24:00</stop>
+      <stop tag="22154" epochTime="41220000">11:27:00</stop>
+      <stop tag="22144_ar" epochTime="41520000">11:32:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="42000000">11:40:00</stop>
+      <stop tag="22160" epochTime="42240000">11:44:00</stop>
+      <stop tag="22154" epochTime="42420000">11:47:00</stop>
+      <stop tag="22144_ar" epochTime="42720000">11:52:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="43800000">12:10:00</stop>
+      <stop tag="22160" epochTime="44040000">12:14:00</stop>
+      <stop tag="22154" epochTime="44220000">12:17:00</stop>
+      <stop tag="22144_ar" epochTime="44520000">12:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="45000000">12:30:00</stop>
+      <stop tag="22160" epochTime="45240000">12:34:00</stop>
+      <stop tag="22154" epochTime="45420000">12:37:00</stop>
+      <stop tag="22144_ar" epochTime="45720000">12:42:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="46200000">12:50:00</stop>
+      <stop tag="22160" epochTime="46440000">12:54:00</stop>
+      <stop tag="22154" epochTime="46620000">12:57:00</stop>
+      <stop tag="22144_ar" epochTime="46920000">13:02:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="47400000">13:10:00</stop>
+      <stop tag="22160" epochTime="47640000">13:14:00</stop>
+      <stop tag="22154" epochTime="47820000">13:17:00</stop>
+      <stop tag="22144_ar" epochTime="48120000">13:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="48600000">13:30:00</stop>
+      <stop tag="22160" epochTime="48840000">13:34:00</stop>
+      <stop tag="22154" epochTime="49020000">13:37:00</stop>
+      <stop tag="22144_ar" epochTime="49320000">13:42:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="49800000">13:50:00</stop>
+      <stop tag="22160" epochTime="50040000">13:54:00</stop>
+      <stop tag="22154" epochTime="50220000">13:57:00</stop>
+      <stop tag="22144_ar" epochTime="50520000">14:02:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="51000000">14:10:00</stop>
+      <stop tag="22160" epochTime="51240000">14:14:00</stop>
+      <stop tag="22154" epochTime="51420000">14:17:00</stop>
+      <stop tag="22144_ar" epochTime="51720000">14:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="52200000">14:30:00</stop>
+      <stop tag="22160" epochTime="52440000">14:34:00</stop>
+      <stop tag="22154" epochTime="52620000">14:37:00</stop>
+      <stop tag="22144_ar" epochTime="52920000">14:42:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="53400000">14:50:00</stop>
+      <stop tag="22160" epochTime="53640000">14:54:00</stop>
+      <stop tag="22154" epochTime="53820000">14:57:00</stop>
+      <stop tag="22144_ar" epochTime="54120000">15:02:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="54600000">15:10:00</stop>
+      <stop tag="22160" epochTime="54840000">15:14:00</stop>
+      <stop tag="22154" epochTime="55020000">15:17:00</stop>
+      <stop tag="22144_ar" epochTime="55320000">15:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="55800000">15:30:00</stop>
+      <stop tag="22160" epochTime="56040000">15:34:00</stop>
+      <stop tag="22154" epochTime="56220000">15:37:00</stop>
+      <stop tag="22144_ar" epochTime="56520000">15:42:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="57000000">15:50:00</stop>
+      <stop tag="22160" epochTime="57240000">15:54:00</stop>
+      <stop tag="22154" epochTime="57420000">15:57:00</stop>
+      <stop tag="22144_ar" epochTime="57720000">16:02:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="58200000">16:10:00</stop>
+      <stop tag="22160" epochTime="58440000">16:14:00</stop>
+      <stop tag="22154" epochTime="58620000">16:17:00</stop>
+      <stop tag="22144_ar" epochTime="58920000">16:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="59400000">16:30:00</stop>
+      <stop tag="22160" epochTime="59640000">16:34:00</stop>
+      <stop tag="22154" epochTime="59820000">16:37:00</stop>
+      <stop tag="22144_ar" epochTime="60120000">16:42:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="60600000">16:50:00</stop>
+      <stop tag="22160" epochTime="60840000">16:54:00</stop>
+      <stop tag="22154" epochTime="61020000">16:57:00</stop>
+      <stop tag="22144_ar" epochTime="61320000">17:02:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="61800000">17:10:00</stop>
+      <stop tag="22160" epochTime="62040000">17:14:00</stop>
+      <stop tag="22154" epochTime="62220000">17:17:00</stop>
+      <stop tag="22144_ar" epochTime="62520000">17:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="63000000">17:30:00</stop>
+      <stop tag="22160" epochTime="63240000">17:34:00</stop>
+      <stop tag="22154" epochTime="63420000">17:37:00</stop>
+      <stop tag="22144_ar" epochTime="63720000">17:42:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="64200000">17:50:00</stop>
+      <stop tag="22160" epochTime="64440000">17:54:00</stop>
+      <stop tag="22154" epochTime="64620000">17:57:00</stop>
+      <stop tag="22144_ar" epochTime="64920000">18:02:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="65400000">18:10:00</stop>
+      <stop tag="22160" epochTime="65640000">18:14:00</stop>
+      <stop tag="22154" epochTime="65820000">18:17:00</stop>
+      <stop tag="22144_ar" epochTime="66120000">18:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="66600000">18:30:00</stop>
+      <stop tag="22160" epochTime="66840000">18:34:00</stop>
+      <stop tag="22154" epochTime="67020000">18:37:00</stop>
+      <stop tag="22144_ar" epochTime="67320000">18:42:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="69000000">19:10:00</stop>
+      <stop tag="22160" epochTime="69240000">19:14:00</stop>
+      <stop tag="22154" epochTime="69420000">19:17:00</stop>
+      <stop tag="22144_ar" epochTime="69720000">19:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="70500000">19:35:00</stop>
+      <stop tag="22160" epochTime="70740000">19:39:00</stop>
+      <stop tag="22154" epochTime="70920000">19:42:00</stop>
+      <stop tag="22144_ar" epochTime="71220000">19:47:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="72600000">20:10:00</stop>
+      <stop tag="22160" epochTime="72840000">20:14:00</stop>
+      <stop tag="22154" epochTime="73020000">20:17:00</stop>
+      <stop tag="22144_ar" epochTime="73320000">20:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="74100000">20:35:00</stop>
+      <stop tag="22160" epochTime="74340000">20:39:00</stop>
+      <stop tag="22154" epochTime="74520000">20:42:00</stop>
+      <stop tag="22144_ar" epochTime="74820000">20:47:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="76200000">21:10:00</stop>
+      <stop tag="22160" epochTime="76440000">21:14:00</stop>
+      <stop tag="22154" epochTime="76620000">21:17:00</stop>
+      <stop tag="22144_ar" epochTime="76920000">21:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="77700000">21:35:00</stop>
+      <stop tag="22160" epochTime="77940000">21:39:00</stop>
+      <stop tag="22154" epochTime="78120000">21:42:00</stop>
+      <stop tag="22144_ar" epochTime="78420000">21:47:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="79800000">22:10:00</stop>
+      <stop tag="22160" epochTime="80040000">22:14:00</stop>
+      <stop tag="22154" epochTime="80220000">22:17:00</stop>
+      <stop tag="22144_ar" epochTime="80520000">22:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="81300000">22:35:00</stop>
+      <stop tag="22160" epochTime="81540000">22:39:00</stop>
+      <stop tag="22154" epochTime="81720000">22:42:00</stop>
+      <stop tag="22144_ar" epochTime="82020000">22:47:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="83400000">23:10:00</stop>
+      <stop tag="22160" epochTime="83640000">23:14:00</stop>
+      <stop tag="22154" epochTime="83820000">23:17:00</stop>
+      <stop tag="22144_ar" epochTime="84120000">23:22:00</stop>
+    </tr>
+  </route>
+  <route tag="J" title="J" scheduleClass="20251222" serviceClass="Friday" direction="Inbound to UCD Silo">
+    <header>
+      <stop tag="22144">North Sycamore Loop (NB)</stop>
+      <stop tag="22137">Alvarado Ave &amp; Sycamore (EB)</stop>
+      <stop tag="22135">Alvarado Ave &amp; Anderson (EB)</stop>
+      <stop tag="22155">Anderson Rd &amp; Hanover Drive/Anderson Plaza/SaveMart (SB)</stop>
+      <stop tag="22159">Anderson Rd &amp; Russell Blvd (SB)</stop>
+      <stop tag="22256_ar">Silo Terminal &amp; Center Island (WB)</stop>
+    </header>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="25020000">06:57:00</stop>
+      <stop tag="22137" epochTime="25140000">06:59:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="25320000">07:02:00</stop>
+      <stop tag="22159" epochTime="25440000">07:04:00</stop>
+      <stop tag="22256_ar" epochTime="26100000">07:15:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="-1">--</stop>
+      <stop tag="22137" epochTime="-1">--</stop>
+      <stop tag="22135" epochTime="27000000">07:30:00</stop>
+      <stop tag="22155" epochTime="27120000">07:32:00</stop>
+      <stop tag="22159" epochTime="27240000">07:34:00</stop>
+      <stop tag="22256_ar" epochTime="28200000">07:50:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="26820000">07:27:00</stop>
+      <stop tag="22137" epochTime="26940000">07:29:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="-1">--</stop>
+      <stop tag="22159" epochTime="-1">--</stop>
+      <stop tag="22256_ar" epochTime="28200000">07:50:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="28020000">07:47:00</stop>
+      <stop tag="22137" epochTime="28140000">07:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="28320000">07:52:00</stop>
+      <stop tag="22159" epochTime="28440000">07:54:00</stop>
+      <stop tag="22256_ar" epochTime="29100000">08:05:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="29220000">08:07:00</stop>
+      <stop tag="22137" epochTime="29340000">08:09:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="29520000">08:12:00</stop>
+      <stop tag="22159" epochTime="29640000">08:14:00</stop>
+      <stop tag="22256_ar" epochTime="30300000">08:25:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="-1">--</stop>
+      <stop tag="22137" epochTime="-1">--</stop>
+      <stop tag="22135" epochTime="30600000">08:30:00</stop>
+      <stop tag="22155" epochTime="30720000">08:32:00</stop>
+      <stop tag="22159" epochTime="30840000">08:34:00</stop>
+      <stop tag="22256_ar" epochTime="31800000">08:50:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="30420000">08:27:00</stop>
+      <stop tag="22137" epochTime="30540000">08:29:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="-1">--</stop>
+      <stop tag="22159" epochTime="-1">--</stop>
+      <stop tag="22256_ar" epochTime="31800000">08:50:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="31620000">08:47:00</stop>
+      <stop tag="22137" epochTime="31740000">08:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="31920000">08:52:00</stop>
+      <stop tag="22159" epochTime="32040000">08:54:00</stop>
+      <stop tag="22256_ar" epochTime="32700000">09:05:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="33120000">09:12:00</stop>
+      <stop tag="22137" epochTime="33240000">09:14:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="33420000">09:17:00</stop>
+      <stop tag="22159" epochTime="33540000">09:19:00</stop>
+      <stop tag="22256_ar" epochTime="34200000">09:30:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="-1">--</stop>
+      <stop tag="22137" epochTime="-1">--</stop>
+      <stop tag="22135" epochTime="34500000">09:35:00</stop>
+      <stop tag="22155" epochTime="34620000">09:37:00</stop>
+      <stop tag="22159" epochTime="34740000">09:39:00</stop>
+      <stop tag="22256_ar" epochTime="35400000">09:50:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="34320000">09:32:00</stop>
+      <stop tag="22137" epochTime="34440000">09:34:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="-1">--</stop>
+      <stop tag="22159" epochTime="-1">--</stop>
+      <stop tag="22256_ar" epochTime="35400000">09:50:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="35520000">09:52:00</stop>
+      <stop tag="22137" epochTime="35640000">09:54:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="35820000">09:57:00</stop>
+      <stop tag="22159" epochTime="35940000">09:59:00</stop>
+      <stop tag="22256_ar" epochTime="36600000">10:10:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="36720000">10:12:00</stop>
+      <stop tag="22137" epochTime="36840000">10:14:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="37020000">10:17:00</stop>
+      <stop tag="22159" epochTime="37140000">10:19:00</stop>
+      <stop tag="22256_ar" epochTime="37800000">10:30:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="-1">--</stop>
+      <stop tag="22137" epochTime="-1">--</stop>
+      <stop tag="22135" epochTime="38100000">10:35:00</stop>
+      <stop tag="22155" epochTime="38220000">10:37:00</stop>
+      <stop tag="22159" epochTime="38340000">10:39:00</stop>
+      <stop tag="22256_ar" epochTime="39000000">10:50:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="37920000">10:32:00</stop>
+      <stop tag="22137" epochTime="38040000">10:34:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="-1">--</stop>
+      <stop tag="22159" epochTime="-1">--</stop>
+      <stop tag="22256_ar" epochTime="39000000">10:50:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="39120000">10:52:00</stop>
+      <stop tag="22137" epochTime="39240000">10:54:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="39420000">10:57:00</stop>
+      <stop tag="22159" epochTime="39540000">10:59:00</stop>
+      <stop tag="22256_ar" epochTime="40200000">11:10:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="40320000">11:12:00</stop>
+      <stop tag="22137" epochTime="40440000">11:14:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="40620000">11:17:00</stop>
+      <stop tag="22159" epochTime="40740000">11:19:00</stop>
+      <stop tag="22256_ar" epochTime="41400000">11:30:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="-1">--</stop>
+      <stop tag="22137" epochTime="-1">--</stop>
+      <stop tag="22135" epochTime="41700000">11:35:00</stop>
+      <stop tag="22155" epochTime="41820000">11:37:00</stop>
+      <stop tag="22159" epochTime="41940000">11:39:00</stop>
+      <stop tag="22256_ar" epochTime="42600000">11:50:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="41520000">11:32:00</stop>
+      <stop tag="22137" epochTime="41640000">11:34:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="-1">--</stop>
+      <stop tag="22159" epochTime="-1">--</stop>
+      <stop tag="22256_ar" epochTime="42600000">11:50:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="42720000">11:52:00</stop>
+      <stop tag="22137" epochTime="42840000">11:54:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="43020000">11:57:00</stop>
+      <stop tag="22159" epochTime="43140000">11:59:00</stop>
+      <stop tag="22256_ar" epochTime="43800000">12:10:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="44520000">12:22:00</stop>
+      <stop tag="22137" epochTime="44640000">12:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="44820000">12:27:00</stop>
+      <stop tag="22159" epochTime="44940000">12:29:00</stop>
+      <stop tag="22256_ar" epochTime="45600000">12:40:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="45720000">12:42:00</stop>
+      <stop tag="22137" epochTime="45840000">12:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="46020000">12:47:00</stop>
+      <stop tag="22159" epochTime="46140000">12:49:00</stop>
+      <stop tag="22256_ar" epochTime="46800000">13:00:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="46920000">13:02:00</stop>
+      <stop tag="22137" epochTime="47040000">13:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="47220000">13:07:00</stop>
+      <stop tag="22159" epochTime="47340000">13:09:00</stop>
+      <stop tag="22256_ar" epochTime="48000000">13:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="48120000">13:22:00</stop>
+      <stop tag="22137" epochTime="48240000">13:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="48420000">13:27:00</stop>
+      <stop tag="22159" epochTime="48540000">13:29:00</stop>
+      <stop tag="22256_ar" epochTime="49200000">13:40:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="49320000">13:42:00</stop>
+      <stop tag="22137" epochTime="49440000">13:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="49620000">13:47:00</stop>
+      <stop tag="22159" epochTime="49740000">13:49:00</stop>
+      <stop tag="22256_ar" epochTime="50400000">14:00:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="50520000">14:02:00</stop>
+      <stop tag="22137" epochTime="50640000">14:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="50820000">14:07:00</stop>
+      <stop tag="22159" epochTime="50940000">14:09:00</stop>
+      <stop tag="22256_ar" epochTime="51600000">14:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="51720000">14:22:00</stop>
+      <stop tag="22137" epochTime="51840000">14:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="52020000">14:27:00</stop>
+      <stop tag="22159" epochTime="52140000">14:29:00</stop>
+      <stop tag="22256_ar" epochTime="52800000">14:40:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="52920000">14:42:00</stop>
+      <stop tag="22137" epochTime="53040000">14:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="53220000">14:47:00</stop>
+      <stop tag="22159" epochTime="53340000">14:49:00</stop>
+      <stop tag="22256_ar" epochTime="54000000">15:00:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="54120000">15:02:00</stop>
+      <stop tag="22137" epochTime="54240000">15:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="54420000">15:07:00</stop>
+      <stop tag="22159" epochTime="54540000">15:09:00</stop>
+      <stop tag="22256_ar" epochTime="55200000">15:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="55320000">15:22:00</stop>
+      <stop tag="22137" epochTime="55440000">15:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="55620000">15:27:00</stop>
+      <stop tag="22159" epochTime="55740000">15:29:00</stop>
+      <stop tag="22256_ar" epochTime="56400000">15:40:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="56520000">15:42:00</stop>
+      <stop tag="22137" epochTime="56640000">15:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="56820000">15:47:00</stop>
+      <stop tag="22159" epochTime="56940000">15:49:00</stop>
+      <stop tag="22256_ar" epochTime="57600000">16:00:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="57720000">16:02:00</stop>
+      <stop tag="22137" epochTime="57840000">16:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="58020000">16:07:00</stop>
+      <stop tag="22159" epochTime="58140000">16:09:00</stop>
+      <stop tag="22256_ar" epochTime="58800000">16:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="58920000">16:22:00</stop>
+      <stop tag="22137" epochTime="59040000">16:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="59220000">16:27:00</stop>
+      <stop tag="22159" epochTime="59340000">16:29:00</stop>
+      <stop tag="22256_ar" epochTime="60000000">16:40:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="60120000">16:42:00</stop>
+      <stop tag="22137" epochTime="60240000">16:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="60420000">16:47:00</stop>
+      <stop tag="22159" epochTime="60540000">16:49:00</stop>
+      <stop tag="22256_ar" epochTime="61200000">17:00:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="61320000">17:02:00</stop>
+      <stop tag="22137" epochTime="61440000">17:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="61620000">17:07:00</stop>
+      <stop tag="22159" epochTime="61740000">17:09:00</stop>
+      <stop tag="22256_ar" epochTime="62400000">17:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="62520000">17:22:00</stop>
+      <stop tag="22137" epochTime="62640000">17:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="62820000">17:27:00</stop>
+      <stop tag="22159" epochTime="62940000">17:29:00</stop>
+      <stop tag="22256_ar" epochTime="63600000">17:40:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="63720000">17:42:00</stop>
+      <stop tag="22137" epochTime="63840000">17:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="64020000">17:47:00</stop>
+      <stop tag="22159" epochTime="64140000">17:49:00</stop>
+      <stop tag="22256_ar" epochTime="64800000">18:00:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="64920000">18:02:00</stop>
+      <stop tag="22137" epochTime="65040000">18:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="65220000">18:07:00</stop>
+      <stop tag="22159" epochTime="65340000">18:09:00</stop>
+      <stop tag="22256_ar" epochTime="66000000">18:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="66120000">18:22:00</stop>
+      <stop tag="22137" epochTime="66240000">18:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="66420000">18:27:00</stop>
+      <stop tag="22159" epochTime="66540000">18:29:00</stop>
+      <stop tag="22256_ar" epochTime="67200000">18:40:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="67320000">18:42:00</stop>
+      <stop tag="22137" epochTime="67440000">18:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="67620000">18:47:00</stop>
+      <stop tag="22159" epochTime="67740000">18:49:00</stop>
+      <stop tag="22256_ar" epochTime="68400000">19:00:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="68520000">19:02:00</stop>
+      <stop tag="22137" epochTime="68640000">19:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="68820000">19:07:00</stop>
+      <stop tag="22159" epochTime="68940000">19:09:00</stop>
+      <stop tag="22256_ar" epochTime="69600000">19:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="69720000">19:22:00</stop>
+      <stop tag="22137" epochTime="69840000">19:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="70020000">19:27:00</stop>
+      <stop tag="22159" epochTime="70140000">19:29:00</stop>
+      <stop tag="22256_ar" epochTime="70500000">19:35:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="71220000">19:47:00</stop>
+      <stop tag="22137" epochTime="71340000">19:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="71520000">19:52:00</stop>
+      <stop tag="22159" epochTime="71640000">19:54:00</stop>
+      <stop tag="22256_ar" epochTime="72000000">20:00:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="73320000">20:22:00</stop>
+      <stop tag="22137" epochTime="73440000">20:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="73620000">20:27:00</stop>
+      <stop tag="22159" epochTime="73740000">20:29:00</stop>
+      <stop tag="22256_ar" epochTime="74100000">20:35:00</stop>
+    </tr>
+  </route>
+  <route tag="J" title="J" scheduleClass="20251222" serviceClass="Friday" direction="Outbound to N Sycamore">
+    <header>
+      <stop tag="22256">Silo Terminal &amp; Center Island (WB)</stop>
+      <stop tag="22160">Anderson Rd &amp; Russell Blvd (NB)</stop>
+      <stop tag="22154">Anderson Rd &amp; Hanover Drive/Anderson Plaza/SaveMart (NB)</stop>
+      <stop tag="22144_ar">North Sycamore Loop (NB)</stop>
+    </header>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="26100000">07:15:00</stop>
+      <stop tag="22160" epochTime="26340000">07:19:00</stop>
+      <stop tag="22154" epochTime="26520000">07:22:00</stop>
+      <stop tag="22144_ar" epochTime="26820000">07:27:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="27300000">07:35:00</stop>
+      <stop tag="22160" epochTime="27540000">07:39:00</stop>
+      <stop tag="22154" epochTime="27720000">07:42:00</stop>
+      <stop tag="22144_ar" epochTime="28020000">07:47:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="28500000">07:55:00</stop>
+      <stop tag="22160" epochTime="28740000">07:59:00</stop>
+      <stop tag="22154" epochTime="28920000">08:02:00</stop>
+      <stop tag="22144_ar" epochTime="29220000">08:07:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="29700000">08:15:00</stop>
+      <stop tag="22160" epochTime="29940000">08:19:00</stop>
+      <stop tag="22154" epochTime="30120000">08:22:00</stop>
+      <stop tag="22144_ar" epochTime="30420000">08:27:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="30900000">08:35:00</stop>
+      <stop tag="22160" epochTime="31140000">08:39:00</stop>
+      <stop tag="22154" epochTime="31320000">08:42:00</stop>
+      <stop tag="22144_ar" epochTime="31620000">08:47:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="32400000">09:00:00</stop>
+      <stop tag="22160" epochTime="32640000">09:04:00</stop>
+      <stop tag="22154" epochTime="32820000">09:07:00</stop>
+      <stop tag="22144_ar" epochTime="33120000">09:12:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="33600000">09:20:00</stop>
+      <stop tag="22160" epochTime="33840000">09:24:00</stop>
+      <stop tag="22154" epochTime="34020000">09:27:00</stop>
+      <stop tag="22144_ar" epochTime="34320000">09:32:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="34800000">09:40:00</stop>
+      <stop tag="22160" epochTime="35040000">09:44:00</stop>
+      <stop tag="22154" epochTime="35220000">09:47:00</stop>
+      <stop tag="22144_ar" epochTime="35520000">09:52:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="36000000">10:00:00</stop>
+      <stop tag="22160" epochTime="36240000">10:04:00</stop>
+      <stop tag="22154" epochTime="36420000">10:07:00</stop>
+      <stop tag="22144_ar" epochTime="36720000">10:12:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="37200000">10:20:00</stop>
+      <stop tag="22160" epochTime="37440000">10:24:00</stop>
+      <stop tag="22154" epochTime="37620000">10:27:00</stop>
+      <stop tag="22144_ar" epochTime="37920000">10:32:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="38400000">10:40:00</stop>
+      <stop tag="22160" epochTime="38640000">10:44:00</stop>
+      <stop tag="22154" epochTime="38820000">10:47:00</stop>
+      <stop tag="22144_ar" epochTime="39120000">10:52:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="39600000">11:00:00</stop>
+      <stop tag="22160" epochTime="39840000">11:04:00</stop>
+      <stop tag="22154" epochTime="40020000">11:07:00</stop>
+      <stop tag="22144_ar" epochTime="40320000">11:12:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="40800000">11:20:00</stop>
+      <stop tag="22160" epochTime="41040000">11:24:00</stop>
+      <stop tag="22154" epochTime="41220000">11:27:00</stop>
+      <stop tag="22144_ar" epochTime="41520000">11:32:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="42000000">11:40:00</stop>
+      <stop tag="22160" epochTime="42240000">11:44:00</stop>
+      <stop tag="22154" epochTime="42420000">11:47:00</stop>
+      <stop tag="22144_ar" epochTime="42720000">11:52:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="43800000">12:10:00</stop>
+      <stop tag="22160" epochTime="44040000">12:14:00</stop>
+      <stop tag="22154" epochTime="44220000">12:17:00</stop>
+      <stop tag="22144_ar" epochTime="44520000">12:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="45000000">12:30:00</stop>
+      <stop tag="22160" epochTime="45240000">12:34:00</stop>
+      <stop tag="22154" epochTime="45420000">12:37:00</stop>
+      <stop tag="22144_ar" epochTime="45720000">12:42:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="46200000">12:50:00</stop>
+      <stop tag="22160" epochTime="46440000">12:54:00</stop>
+      <stop tag="22154" epochTime="46620000">12:57:00</stop>
+      <stop tag="22144_ar" epochTime="46920000">13:02:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="47400000">13:10:00</stop>
+      <stop tag="22160" epochTime="47640000">13:14:00</stop>
+      <stop tag="22154" epochTime="47820000">13:17:00</stop>
+      <stop tag="22144_ar" epochTime="48120000">13:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="48600000">13:30:00</stop>
+      <stop tag="22160" epochTime="48840000">13:34:00</stop>
+      <stop tag="22154" epochTime="49020000">13:37:00</stop>
+      <stop tag="22144_ar" epochTime="49320000">13:42:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="49800000">13:50:00</stop>
+      <stop tag="22160" epochTime="50040000">13:54:00</stop>
+      <stop tag="22154" epochTime="50220000">13:57:00</stop>
+      <stop tag="22144_ar" epochTime="50520000">14:02:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="51000000">14:10:00</stop>
+      <stop tag="22160" epochTime="51240000">14:14:00</stop>
+      <stop tag="22154" epochTime="51420000">14:17:00</stop>
+      <stop tag="22144_ar" epochTime="51720000">14:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="52200000">14:30:00</stop>
+      <stop tag="22160" epochTime="52440000">14:34:00</stop>
+      <stop tag="22154" epochTime="52620000">14:37:00</stop>
+      <stop tag="22144_ar" epochTime="52920000">14:42:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="53400000">14:50:00</stop>
+      <stop tag="22160" epochTime="53640000">14:54:00</stop>
+      <stop tag="22154" epochTime="53820000">14:57:00</stop>
+      <stop tag="22144_ar" epochTime="54120000">15:02:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="54600000">15:10:00</stop>
+      <stop tag="22160" epochTime="54840000">15:14:00</stop>
+      <stop tag="22154" epochTime="55020000">15:17:00</stop>
+      <stop tag="22144_ar" epochTime="55320000">15:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="55800000">15:30:00</stop>
+      <stop tag="22160" epochTime="56040000">15:34:00</stop>
+      <stop tag="22154" epochTime="56220000">15:37:00</stop>
+      <stop tag="22144_ar" epochTime="56520000">15:42:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="57000000">15:50:00</stop>
+      <stop tag="22160" epochTime="57240000">15:54:00</stop>
+      <stop tag="22154" epochTime="57420000">15:57:00</stop>
+      <stop tag="22144_ar" epochTime="57720000">16:02:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="58200000">16:10:00</stop>
+      <stop tag="22160" epochTime="58440000">16:14:00</stop>
+      <stop tag="22154" epochTime="58620000">16:17:00</stop>
+      <stop tag="22144_ar" epochTime="58920000">16:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="59400000">16:30:00</stop>
+      <stop tag="22160" epochTime="59640000">16:34:00</stop>
+      <stop tag="22154" epochTime="59820000">16:37:00</stop>
+      <stop tag="22144_ar" epochTime="60120000">16:42:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="60600000">16:50:00</stop>
+      <stop tag="22160" epochTime="60840000">16:54:00</stop>
+      <stop tag="22154" epochTime="61020000">16:57:00</stop>
+      <stop tag="22144_ar" epochTime="61320000">17:02:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="61800000">17:10:00</stop>
+      <stop tag="22160" epochTime="62040000">17:14:00</stop>
+      <stop tag="22154" epochTime="62220000">17:17:00</stop>
+      <stop tag="22144_ar" epochTime="62520000">17:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="63000000">17:30:00</stop>
+      <stop tag="22160" epochTime="63240000">17:34:00</stop>
+      <stop tag="22154" epochTime="63420000">17:37:00</stop>
+      <stop tag="22144_ar" epochTime="63720000">17:42:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="64200000">17:50:00</stop>
+      <stop tag="22160" epochTime="64440000">17:54:00</stop>
+      <stop tag="22154" epochTime="64620000">17:57:00</stop>
+      <stop tag="22144_ar" epochTime="64920000">18:02:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="65400000">18:10:00</stop>
+      <stop tag="22160" epochTime="65640000">18:14:00</stop>
+      <stop tag="22154" epochTime="65820000">18:17:00</stop>
+      <stop tag="22144_ar" epochTime="66120000">18:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="66600000">18:30:00</stop>
+      <stop tag="22160" epochTime="66840000">18:34:00</stop>
+      <stop tag="22154" epochTime="67020000">18:37:00</stop>
+      <stop tag="22144_ar" epochTime="67320000">18:42:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="67800000">18:50:00</stop>
+      <stop tag="22160" epochTime="68040000">18:54:00</stop>
+      <stop tag="22154" epochTime="68220000">18:57:00</stop>
+      <stop tag="22144_ar" epochTime="68520000">19:02:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="69000000">19:10:00</stop>
+      <stop tag="22160" epochTime="69240000">19:14:00</stop>
+      <stop tag="22154" epochTime="69420000">19:17:00</stop>
+      <stop tag="22144_ar" epochTime="69720000">19:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="70500000">19:35:00</stop>
+      <stop tag="22160" epochTime="70740000">19:39:00</stop>
+      <stop tag="22154" epochTime="70920000">19:42:00</stop>
+      <stop tag="22144_ar" epochTime="71220000">19:47:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="72600000">20:10:00</stop>
+      <stop tag="22160" epochTime="72840000">20:14:00</stop>
+      <stop tag="22154" epochTime="73020000">20:17:00</stop>
+      <stop tag="22144_ar" epochTime="73320000">20:22:00</stop>
+    </tr>
+  </route>
+  <route tag="J" title="J" scheduleClass="20251222" serviceClass="MoTuTh" direction="Inbound to UCD Silo">
+    <header>
+      <stop tag="22144">North Sycamore Loop (NB)</stop>
+      <stop tag="22137">Alvarado Ave &amp; Sycamore (EB)</stop>
+      <stop tag="22135">Alvarado Ave &amp; Anderson (EB)</stop>
+      <stop tag="22155">Anderson Rd &amp; Hanover Drive/Anderson Plaza/SaveMart (SB)</stop>
+      <stop tag="22159">Anderson Rd &amp; Russell Blvd (SB)</stop>
+      <stop tag="22256_ar">Silo Terminal &amp; Center Island (WB)</stop>
+    </header>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="25020000">06:57:00</stop>
+      <stop tag="22137" epochTime="25140000">06:59:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="25320000">07:02:00</stop>
+      <stop tag="22159" epochTime="25440000">07:04:00</stop>
+      <stop tag="22256_ar" epochTime="26100000">07:15:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="-1">--</stop>
+      <stop tag="22137" epochTime="-1">--</stop>
+      <stop tag="22135" epochTime="27000000">07:30:00</stop>
+      <stop tag="22155" epochTime="27120000">07:32:00</stop>
+      <stop tag="22159" epochTime="27240000">07:34:00</stop>
+      <stop tag="22256_ar" epochTime="28200000">07:50:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="26820000">07:27:00</stop>
+      <stop tag="22137" epochTime="26940000">07:29:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="-1">--</stop>
+      <stop tag="22159" epochTime="-1">--</stop>
+      <stop tag="22256_ar" epochTime="28200000">07:50:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="28020000">07:47:00</stop>
+      <stop tag="22137" epochTime="28140000">07:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="28320000">07:52:00</stop>
+      <stop tag="22159" epochTime="28440000">07:54:00</stop>
+      <stop tag="22256_ar" epochTime="29100000">08:05:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="29220000">08:07:00</stop>
+      <stop tag="22137" epochTime="29340000">08:09:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="29520000">08:12:00</stop>
+      <stop tag="22159" epochTime="29640000">08:14:00</stop>
+      <stop tag="22256_ar" epochTime="30300000">08:25:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="-1">--</stop>
+      <stop tag="22137" epochTime="-1">--</stop>
+      <stop tag="22135" epochTime="30600000">08:30:00</stop>
+      <stop tag="22155" epochTime="30720000">08:32:00</stop>
+      <stop tag="22159" epochTime="30840000">08:34:00</stop>
+      <stop tag="22256_ar" epochTime="31800000">08:50:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="30420000">08:27:00</stop>
+      <stop tag="22137" epochTime="30540000">08:29:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="-1">--</stop>
+      <stop tag="22159" epochTime="-1">--</stop>
+      <stop tag="22256_ar" epochTime="31800000">08:50:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="31620000">08:47:00</stop>
+      <stop tag="22137" epochTime="31740000">08:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="31920000">08:52:00</stop>
+      <stop tag="22159" epochTime="32040000">08:54:00</stop>
+      <stop tag="22256_ar" epochTime="32700000">09:05:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="33120000">09:12:00</stop>
+      <stop tag="22137" epochTime="33240000">09:14:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="33420000">09:17:00</stop>
+      <stop tag="22159" epochTime="33540000">09:19:00</stop>
+      <stop tag="22256_ar" epochTime="34200000">09:30:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="-1">--</stop>
+      <stop tag="22137" epochTime="-1">--</stop>
+      <stop tag="22135" epochTime="34500000">09:35:00</stop>
+      <stop tag="22155" epochTime="34620000">09:37:00</stop>
+      <stop tag="22159" epochTime="34740000">09:39:00</stop>
+      <stop tag="22256_ar" epochTime="35400000">09:50:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="34320000">09:32:00</stop>
+      <stop tag="22137" epochTime="34440000">09:34:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="-1">--</stop>
+      <stop tag="22159" epochTime="-1">--</stop>
+      <stop tag="22256_ar" epochTime="35400000">09:50:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="35520000">09:52:00</stop>
+      <stop tag="22137" epochTime="35640000">09:54:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="35820000">09:57:00</stop>
+      <stop tag="22159" epochTime="35940000">09:59:00</stop>
+      <stop tag="22256_ar" epochTime="36600000">10:10:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="36720000">10:12:00</stop>
+      <stop tag="22137" epochTime="36840000">10:14:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="37020000">10:17:00</stop>
+      <stop tag="22159" epochTime="37140000">10:19:00</stop>
+      <stop tag="22256_ar" epochTime="37800000">10:30:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="-1">--</stop>
+      <stop tag="22137" epochTime="-1">--</stop>
+      <stop tag="22135" epochTime="38100000">10:35:00</stop>
+      <stop tag="22155" epochTime="38220000">10:37:00</stop>
+      <stop tag="22159" epochTime="38340000">10:39:00</stop>
+      <stop tag="22256_ar" epochTime="39000000">10:50:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="37920000">10:32:00</stop>
+      <stop tag="22137" epochTime="38040000">10:34:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="-1">--</stop>
+      <stop tag="22159" epochTime="-1">--</stop>
+      <stop tag="22256_ar" epochTime="39000000">10:50:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="39120000">10:52:00</stop>
+      <stop tag="22137" epochTime="39240000">10:54:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="39420000">10:57:00</stop>
+      <stop tag="22159" epochTime="39540000">10:59:00</stop>
+      <stop tag="22256_ar" epochTime="40200000">11:10:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="40320000">11:12:00</stop>
+      <stop tag="22137" epochTime="40440000">11:14:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="40620000">11:17:00</stop>
+      <stop tag="22159" epochTime="40740000">11:19:00</stop>
+      <stop tag="22256_ar" epochTime="41400000">11:30:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="-1">--</stop>
+      <stop tag="22137" epochTime="-1">--</stop>
+      <stop tag="22135" epochTime="41700000">11:35:00</stop>
+      <stop tag="22155" epochTime="41820000">11:37:00</stop>
+      <stop tag="22159" epochTime="41940000">11:39:00</stop>
+      <stop tag="22256_ar" epochTime="42600000">11:50:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="41520000">11:32:00</stop>
+      <stop tag="22137" epochTime="41640000">11:34:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="-1">--</stop>
+      <stop tag="22159" epochTime="-1">--</stop>
+      <stop tag="22256_ar" epochTime="42600000">11:50:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="42720000">11:52:00</stop>
+      <stop tag="22137" epochTime="42840000">11:54:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="43020000">11:57:00</stop>
+      <stop tag="22159" epochTime="43140000">11:59:00</stop>
+      <stop tag="22256_ar" epochTime="43800000">12:10:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="44520000">12:22:00</stop>
+      <stop tag="22137" epochTime="44640000">12:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="44820000">12:27:00</stop>
+      <stop tag="22159" epochTime="44940000">12:29:00</stop>
+      <stop tag="22256_ar" epochTime="45600000">12:40:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="45720000">12:42:00</stop>
+      <stop tag="22137" epochTime="45840000">12:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="46020000">12:47:00</stop>
+      <stop tag="22159" epochTime="46140000">12:49:00</stop>
+      <stop tag="22256_ar" epochTime="46800000">13:00:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="46920000">13:02:00</stop>
+      <stop tag="22137" epochTime="47040000">13:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="47220000">13:07:00</stop>
+      <stop tag="22159" epochTime="47340000">13:09:00</stop>
+      <stop tag="22256_ar" epochTime="48000000">13:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="48120000">13:22:00</stop>
+      <stop tag="22137" epochTime="48240000">13:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="48420000">13:27:00</stop>
+      <stop tag="22159" epochTime="48540000">13:29:00</stop>
+      <stop tag="22256_ar" epochTime="49200000">13:40:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="49320000">13:42:00</stop>
+      <stop tag="22137" epochTime="49440000">13:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="49620000">13:47:00</stop>
+      <stop tag="22159" epochTime="49740000">13:49:00</stop>
+      <stop tag="22256_ar" epochTime="50400000">14:00:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="50520000">14:02:00</stop>
+      <stop tag="22137" epochTime="50640000">14:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="50820000">14:07:00</stop>
+      <stop tag="22159" epochTime="50940000">14:09:00</stop>
+      <stop tag="22256_ar" epochTime="51600000">14:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="51720000">14:22:00</stop>
+      <stop tag="22137" epochTime="51840000">14:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="52020000">14:27:00</stop>
+      <stop tag="22159" epochTime="52140000">14:29:00</stop>
+      <stop tag="22256_ar" epochTime="52800000">14:40:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="52920000">14:42:00</stop>
+      <stop tag="22137" epochTime="53040000">14:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="53220000">14:47:00</stop>
+      <stop tag="22159" epochTime="53340000">14:49:00</stop>
+      <stop tag="22256_ar" epochTime="54000000">15:00:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="54120000">15:02:00</stop>
+      <stop tag="22137" epochTime="54240000">15:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="54420000">15:07:00</stop>
+      <stop tag="22159" epochTime="54540000">15:09:00</stop>
+      <stop tag="22256_ar" epochTime="55200000">15:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="55320000">15:22:00</stop>
+      <stop tag="22137" epochTime="55440000">15:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="55620000">15:27:00</stop>
+      <stop tag="22159" epochTime="55740000">15:29:00</stop>
+      <stop tag="22256_ar" epochTime="56400000">15:40:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="56520000">15:42:00</stop>
+      <stop tag="22137" epochTime="56640000">15:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="56820000">15:47:00</stop>
+      <stop tag="22159" epochTime="56940000">15:49:00</stop>
+      <stop tag="22256_ar" epochTime="57600000">16:00:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="57720000">16:02:00</stop>
+      <stop tag="22137" epochTime="57840000">16:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="58020000">16:07:00</stop>
+      <stop tag="22159" epochTime="58140000">16:09:00</stop>
+      <stop tag="22256_ar" epochTime="58800000">16:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="58920000">16:22:00</stop>
+      <stop tag="22137" epochTime="59040000">16:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="59220000">16:27:00</stop>
+      <stop tag="22159" epochTime="59340000">16:29:00</stop>
+      <stop tag="22256_ar" epochTime="60000000">16:40:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="60120000">16:42:00</stop>
+      <stop tag="22137" epochTime="60240000">16:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="60420000">16:47:00</stop>
+      <stop tag="22159" epochTime="60540000">16:49:00</stop>
+      <stop tag="22256_ar" epochTime="61200000">17:00:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="61320000">17:02:00</stop>
+      <stop tag="22137" epochTime="61440000">17:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="61620000">17:07:00</stop>
+      <stop tag="22159" epochTime="61740000">17:09:00</stop>
+      <stop tag="22256_ar" epochTime="62400000">17:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="62520000">17:22:00</stop>
+      <stop tag="22137" epochTime="62640000">17:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="62820000">17:27:00</stop>
+      <stop tag="22159" epochTime="62940000">17:29:00</stop>
+      <stop tag="22256_ar" epochTime="63600000">17:40:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="63720000">17:42:00</stop>
+      <stop tag="22137" epochTime="63840000">17:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="64020000">17:47:00</stop>
+      <stop tag="22159" epochTime="64140000">17:49:00</stop>
+      <stop tag="22256_ar" epochTime="64800000">18:00:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="64920000">18:02:00</stop>
+      <stop tag="22137" epochTime="65040000">18:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="65220000">18:07:00</stop>
+      <stop tag="22159" epochTime="65340000">18:09:00</stop>
+      <stop tag="22256_ar" epochTime="66000000">18:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="66120000">18:22:00</stop>
+      <stop tag="22137" epochTime="66240000">18:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="66420000">18:27:00</stop>
+      <stop tag="22159" epochTime="66540000">18:29:00</stop>
+      <stop tag="22256_ar" epochTime="67200000">18:40:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="67320000">18:42:00</stop>
+      <stop tag="22137" epochTime="67440000">18:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="67620000">18:47:00</stop>
+      <stop tag="22159" epochTime="67740000">18:49:00</stop>
+      <stop tag="22256_ar" epochTime="68400000">19:00:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="68520000">19:02:00</stop>
+      <stop tag="22137" epochTime="68640000">19:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="68820000">19:07:00</stop>
+      <stop tag="22159" epochTime="68940000">19:09:00</stop>
+      <stop tag="22256_ar" epochTime="69600000">19:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="69720000">19:22:00</stop>
+      <stop tag="22137" epochTime="69840000">19:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="70020000">19:27:00</stop>
+      <stop tag="22159" epochTime="70140000">19:29:00</stop>
+      <stop tag="22256_ar" epochTime="70500000">19:35:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="71220000">19:47:00</stop>
+      <stop tag="22137" epochTime="71340000">19:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="71520000">19:52:00</stop>
+      <stop tag="22159" epochTime="71640000">19:54:00</stop>
+      <stop tag="22256_ar" epochTime="72000000">20:00:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="73320000">20:22:00</stop>
+      <stop tag="22137" epochTime="73440000">20:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="73620000">20:27:00</stop>
+      <stop tag="22159" epochTime="73740000">20:29:00</stop>
+      <stop tag="22256_ar" epochTime="74100000">20:35:00</stop>
+    </tr>
+    <tr blockID="8">
+      <stop tag="22144" epochTime="74820000">20:47:00</stop>
+      <stop tag="22137" epochTime="74940000">20:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="75120000">20:52:00</stop>
+      <stop tag="22159" epochTime="75240000">20:54:00</stop>
+      <stop tag="22256_ar" epochTime="75900000">21:05:00</stop>
+    </tr>
+    <tr blockID="8">
+      <stop tag="22144" epochTime="76920000">21:22:00</stop>
+      <stop tag="22137" epochTime="77040000">21:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="77220000">21:27:00</stop>
+      <stop tag="22159" epochTime="77340000">21:29:00</stop>
+      <stop tag="22256_ar" epochTime="77700000">21:35:00</stop>
+    </tr>
+    <tr blockID="9">
+      <stop tag="22144" epochTime="78420000">21:47:00</stop>
+      <stop tag="22137" epochTime="78540000">21:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="78720000">21:52:00</stop>
+      <stop tag="22159" epochTime="78840000">21:54:00</stop>
+      <stop tag="22256_ar" epochTime="79500000">22:05:00</stop>
+    </tr>
+    <tr blockID="8">
+      <stop tag="22144" epochTime="80520000">22:22:00</stop>
+      <stop tag="22137" epochTime="80640000">22:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="80820000">22:27:00</stop>
+      <stop tag="22159" epochTime="80940000">22:29:00</stop>
+      <stop tag="22256_ar" epochTime="81300000">22:35:00</stop>
+    </tr>
+    <tr blockID="1">
+      <stop tag="22144" epochTime="82020000">22:47:00</stop>
+      <stop tag="22137" epochTime="82140000">22:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="82320000">22:52:00</stop>
+      <stop tag="22159" epochTime="82440000">22:54:00</stop>
+      <stop tag="22256_ar" epochTime="83100000">23:05:00</stop>
+    </tr>
+  </route>
+  <route tag="J" title="J" scheduleClass="20251222" serviceClass="MoTuTh" direction="Outbound to N Sycamore">
+    <header>
+      <stop tag="22256">Silo Terminal &amp; Center Island (WB)</stop>
+      <stop tag="22160">Anderson Rd &amp; Russell Blvd (NB)</stop>
+      <stop tag="22154">Anderson Rd &amp; Hanover Drive/Anderson Plaza/SaveMart (NB)</stop>
+      <stop tag="22144_ar">North Sycamore Loop (NB)</stop>
+    </header>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="26100000">07:15:00</stop>
+      <stop tag="22160" epochTime="26340000">07:19:00</stop>
+      <stop tag="22154" epochTime="26520000">07:22:00</stop>
+      <stop tag="22144_ar" epochTime="26820000">07:27:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="27300000">07:35:00</stop>
+      <stop tag="22160" epochTime="27540000">07:39:00</stop>
+      <stop tag="22154" epochTime="27720000">07:42:00</stop>
+      <stop tag="22144_ar" epochTime="28020000">07:47:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="28500000">07:55:00</stop>
+      <stop tag="22160" epochTime="28740000">07:59:00</stop>
+      <stop tag="22154" epochTime="28920000">08:02:00</stop>
+      <stop tag="22144_ar" epochTime="29220000">08:07:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="29700000">08:15:00</stop>
+      <stop tag="22160" epochTime="29940000">08:19:00</stop>
+      <stop tag="22154" epochTime="30120000">08:22:00</stop>
+      <stop tag="22144_ar" epochTime="30420000">08:27:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="30900000">08:35:00</stop>
+      <stop tag="22160" epochTime="31140000">08:39:00</stop>
+      <stop tag="22154" epochTime="31320000">08:42:00</stop>
+      <stop tag="22144_ar" epochTime="31620000">08:47:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="32400000">09:00:00</stop>
+      <stop tag="22160" epochTime="32640000">09:04:00</stop>
+      <stop tag="22154" epochTime="32820000">09:07:00</stop>
+      <stop tag="22144_ar" epochTime="33120000">09:12:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="33600000">09:20:00</stop>
+      <stop tag="22160" epochTime="33840000">09:24:00</stop>
+      <stop tag="22154" epochTime="34020000">09:27:00</stop>
+      <stop tag="22144_ar" epochTime="34320000">09:32:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="34800000">09:40:00</stop>
+      <stop tag="22160" epochTime="35040000">09:44:00</stop>
+      <stop tag="22154" epochTime="35220000">09:47:00</stop>
+      <stop tag="22144_ar" epochTime="35520000">09:52:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="36000000">10:00:00</stop>
+      <stop tag="22160" epochTime="36240000">10:04:00</stop>
+      <stop tag="22154" epochTime="36420000">10:07:00</stop>
+      <stop tag="22144_ar" epochTime="36720000">10:12:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="37200000">10:20:00</stop>
+      <stop tag="22160" epochTime="37440000">10:24:00</stop>
+      <stop tag="22154" epochTime="37620000">10:27:00</stop>
+      <stop tag="22144_ar" epochTime="37920000">10:32:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="38400000">10:40:00</stop>
+      <stop tag="22160" epochTime="38640000">10:44:00</stop>
+      <stop tag="22154" epochTime="38820000">10:47:00</stop>
+      <stop tag="22144_ar" epochTime="39120000">10:52:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="39600000">11:00:00</stop>
+      <stop tag="22160" epochTime="39840000">11:04:00</stop>
+      <stop tag="22154" epochTime="40020000">11:07:00</stop>
+      <stop tag="22144_ar" epochTime="40320000">11:12:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="40800000">11:20:00</stop>
+      <stop tag="22160" epochTime="41040000">11:24:00</stop>
+      <stop tag="22154" epochTime="41220000">11:27:00</stop>
+      <stop tag="22144_ar" epochTime="41520000">11:32:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="42000000">11:40:00</stop>
+      <stop tag="22160" epochTime="42240000">11:44:00</stop>
+      <stop tag="22154" epochTime="42420000">11:47:00</stop>
+      <stop tag="22144_ar" epochTime="42720000">11:52:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="43800000">12:10:00</stop>
+      <stop tag="22160" epochTime="44040000">12:14:00</stop>
+      <stop tag="22154" epochTime="44220000">12:17:00</stop>
+      <stop tag="22144_ar" epochTime="44520000">12:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="45000000">12:30:00</stop>
+      <stop tag="22160" epochTime="45240000">12:34:00</stop>
+      <stop tag="22154" epochTime="45420000">12:37:00</stop>
+      <stop tag="22144_ar" epochTime="45720000">12:42:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="46200000">12:50:00</stop>
+      <stop tag="22160" epochTime="46440000">12:54:00</stop>
+      <stop tag="22154" epochTime="46620000">12:57:00</stop>
+      <stop tag="22144_ar" epochTime="46920000">13:02:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="47400000">13:10:00</stop>
+      <stop tag="22160" epochTime="47640000">13:14:00</stop>
+      <stop tag="22154" epochTime="47820000">13:17:00</stop>
+      <stop tag="22144_ar" epochTime="48120000">13:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="48600000">13:30:00</stop>
+      <stop tag="22160" epochTime="48840000">13:34:00</stop>
+      <stop tag="22154" epochTime="49020000">13:37:00</stop>
+      <stop tag="22144_ar" epochTime="49320000">13:42:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="49800000">13:50:00</stop>
+      <stop tag="22160" epochTime="50040000">13:54:00</stop>
+      <stop tag="22154" epochTime="50220000">13:57:00</stop>
+      <stop tag="22144_ar" epochTime="50520000">14:02:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="51000000">14:10:00</stop>
+      <stop tag="22160" epochTime="51240000">14:14:00</stop>
+      <stop tag="22154" epochTime="51420000">14:17:00</stop>
+      <stop tag="22144_ar" epochTime="51720000">14:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="52200000">14:30:00</stop>
+      <stop tag="22160" epochTime="52440000">14:34:00</stop>
+      <stop tag="22154" epochTime="52620000">14:37:00</stop>
+      <stop tag="22144_ar" epochTime="52920000">14:42:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="53400000">14:50:00</stop>
+      <stop tag="22160" epochTime="53640000">14:54:00</stop>
+      <stop tag="22154" epochTime="53820000">14:57:00</stop>
+      <stop tag="22144_ar" epochTime="54120000">15:02:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="54600000">15:10:00</stop>
+      <stop tag="22160" epochTime="54840000">15:14:00</stop>
+      <stop tag="22154" epochTime="55020000">15:17:00</stop>
+      <stop tag="22144_ar" epochTime="55320000">15:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="55800000">15:30:00</stop>
+      <stop tag="22160" epochTime="56040000">15:34:00</stop>
+      <stop tag="22154" epochTime="56220000">15:37:00</stop>
+      <stop tag="22144_ar" epochTime="56520000">15:42:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="57000000">15:50:00</stop>
+      <stop tag="22160" epochTime="57240000">15:54:00</stop>
+      <stop tag="22154" epochTime="57420000">15:57:00</stop>
+      <stop tag="22144_ar" epochTime="57720000">16:02:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="58200000">16:10:00</stop>
+      <stop tag="22160" epochTime="58440000">16:14:00</stop>
+      <stop tag="22154" epochTime="58620000">16:17:00</stop>
+      <stop tag="22144_ar" epochTime="58920000">16:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="59400000">16:30:00</stop>
+      <stop tag="22160" epochTime="59640000">16:34:00</stop>
+      <stop tag="22154" epochTime="59820000">16:37:00</stop>
+      <stop tag="22144_ar" epochTime="60120000">16:42:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="60600000">16:50:00</stop>
+      <stop tag="22160" epochTime="60840000">16:54:00</stop>
+      <stop tag="22154" epochTime="61020000">16:57:00</stop>
+      <stop tag="22144_ar" epochTime="61320000">17:02:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="61800000">17:10:00</stop>
+      <stop tag="22160" epochTime="62040000">17:14:00</stop>
+      <stop tag="22154" epochTime="62220000">17:17:00</stop>
+      <stop tag="22144_ar" epochTime="62520000">17:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="63000000">17:30:00</stop>
+      <stop tag="22160" epochTime="63240000">17:34:00</stop>
+      <stop tag="22154" epochTime="63420000">17:37:00</stop>
+      <stop tag="22144_ar" epochTime="63720000">17:42:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="64200000">17:50:00</stop>
+      <stop tag="22160" epochTime="64440000">17:54:00</stop>
+      <stop tag="22154" epochTime="64620000">17:57:00</stop>
+      <stop tag="22144_ar" epochTime="64920000">18:02:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="65400000">18:10:00</stop>
+      <stop tag="22160" epochTime="65640000">18:14:00</stop>
+      <stop tag="22154" epochTime="65820000">18:17:00</stop>
+      <stop tag="22144_ar" epochTime="66120000">18:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="66600000">18:30:00</stop>
+      <stop tag="22160" epochTime="66840000">18:34:00</stop>
+      <stop tag="22154" epochTime="67020000">18:37:00</stop>
+      <stop tag="22144_ar" epochTime="67320000">18:42:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="67800000">18:50:00</stop>
+      <stop tag="22160" epochTime="68040000">18:54:00</stop>
+      <stop tag="22154" epochTime="68220000">18:57:00</stop>
+      <stop tag="22144_ar" epochTime="68520000">19:02:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="69000000">19:10:00</stop>
+      <stop tag="22160" epochTime="69240000">19:14:00</stop>
+      <stop tag="22154" epochTime="69420000">19:17:00</stop>
+      <stop tag="22144_ar" epochTime="69720000">19:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="70500000">19:35:00</stop>
+      <stop tag="22160" epochTime="70740000">19:39:00</stop>
+      <stop tag="22154" epochTime="70920000">19:42:00</stop>
+      <stop tag="22144_ar" epochTime="71220000">19:47:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="72600000">20:10:00</stop>
+      <stop tag="22160" epochTime="72840000">20:14:00</stop>
+      <stop tag="22154" epochTime="73020000">20:17:00</stop>
+      <stop tag="22144_ar" epochTime="73320000">20:22:00</stop>
+    </tr>
+    <tr blockID="8">
+      <stop tag="22256" epochTime="74100000">20:35:00</stop>
+      <stop tag="22160" epochTime="74340000">20:39:00</stop>
+      <stop tag="22154" epochTime="74520000">20:42:00</stop>
+      <stop tag="22144_ar" epochTime="74820000">20:47:00</stop>
+    </tr>
+    <tr blockID="8">
+      <stop tag="22256" epochTime="76200000">21:10:00</stop>
+      <stop tag="22160" epochTime="76440000">21:14:00</stop>
+      <stop tag="22154" epochTime="76620000">21:17:00</stop>
+      <stop tag="22144_ar" epochTime="76920000">21:22:00</stop>
+    </tr>
+    <tr blockID="9">
+      <stop tag="22256" epochTime="77700000">21:35:00</stop>
+      <stop tag="22160" epochTime="77940000">21:39:00</stop>
+      <stop tag="22154" epochTime="78120000">21:42:00</stop>
+      <stop tag="22144_ar" epochTime="78420000">21:47:00</stop>
+    </tr>
+    <tr blockID="8">
+      <stop tag="22256" epochTime="79800000">22:10:00</stop>
+      <stop tag="22160" epochTime="80040000">22:14:00</stop>
+      <stop tag="22154" epochTime="80220000">22:17:00</stop>
+      <stop tag="22144_ar" epochTime="80520000">22:22:00</stop>
+    </tr>
+    <tr blockID="1">
+      <stop tag="22256" epochTime="81300000">22:35:00</stop>
+      <stop tag="22160" epochTime="81540000">22:39:00</stop>
+      <stop tag="22154" epochTime="81720000">22:42:00</stop>
+      <stop tag="22144_ar" epochTime="82020000">22:47:00</stop>
+    </tr>
+  </route>
+  <route tag="J" title="J" scheduleClass="20251222" serviceClass="Service03" direction="Inbound to UCD Silo">
+    <header>
+      <stop tag="22144">North Sycamore Loop (NB)</stop>
+      <stop tag="22137">Alvarado Ave &amp; Sycamore (EB)</stop>
+      <stop tag="22135">Alvarado Ave &amp; Anderson (EB)</stop>
+      <stop tag="22155">Anderson Rd &amp; Hanover Drive/Anderson Plaza/SaveMart (SB)</stop>
+      <stop tag="22159">Anderson Rd &amp; Russell Blvd (SB)</stop>
+      <stop tag="22256_ar">Silo Terminal &amp; Center Island (WB)</stop>
+    </header>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="25020000">06:57:00</stop>
+      <stop tag="22137" epochTime="25140000">06:59:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="25320000">07:02:00</stop>
+      <stop tag="22159" epochTime="25440000">07:04:00</stop>
+      <stop tag="22256_ar" epochTime="26100000">07:15:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="-1">--</stop>
+      <stop tag="22137" epochTime="-1">--</stop>
+      <stop tag="22135" epochTime="27000000">07:30:00</stop>
+      <stop tag="22155" epochTime="27120000">07:32:00</stop>
+      <stop tag="22159" epochTime="27240000">07:34:00</stop>
+      <stop tag="22256_ar" epochTime="28200000">07:50:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="26820000">07:27:00</stop>
+      <stop tag="22137" epochTime="26940000">07:29:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="-1">--</stop>
+      <stop tag="22159" epochTime="-1">--</stop>
+      <stop tag="22256_ar" epochTime="28200000">07:50:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="28020000">07:47:00</stop>
+      <stop tag="22137" epochTime="28140000">07:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="28320000">07:52:00</stop>
+      <stop tag="22159" epochTime="28440000">07:54:00</stop>
+      <stop tag="22256_ar" epochTime="29100000">08:05:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="29220000">08:07:00</stop>
+      <stop tag="22137" epochTime="29340000">08:09:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="29520000">08:12:00</stop>
+      <stop tag="22159" epochTime="29640000">08:14:00</stop>
+      <stop tag="22256_ar" epochTime="30300000">08:25:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="30420000">08:27:00</stop>
+      <stop tag="22137" epochTime="30540000">08:29:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="30720000">08:32:00</stop>
+      <stop tag="22159" epochTime="30840000">08:34:00</stop>
+      <stop tag="22256_ar" epochTime="31500000">08:45:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="31620000">08:47:00</stop>
+      <stop tag="22137" epochTime="31740000">08:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="31920000">08:52:00</stop>
+      <stop tag="22159" epochTime="32040000">08:54:00</stop>
+      <stop tag="22256_ar" epochTime="32700000">09:05:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="33120000">09:12:00</stop>
+      <stop tag="22137" epochTime="33240000">09:14:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="33420000">09:17:00</stop>
+      <stop tag="22159" epochTime="33540000">09:19:00</stop>
+      <stop tag="22256_ar" epochTime="34200000">09:30:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="34320000">09:32:00</stop>
+      <stop tag="22137" epochTime="34440000">09:34:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="34620000">09:37:00</stop>
+      <stop tag="22159" epochTime="34740000">09:39:00</stop>
+      <stop tag="22256_ar" epochTime="35400000">09:50:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="-1">--</stop>
+      <stop tag="22137" epochTime="-1">--</stop>
+      <stop tag="22135" epochTime="35700000">09:55:00</stop>
+      <stop tag="22155" epochTime="35820000">09:57:00</stop>
+      <stop tag="22159" epochTime="35940000">09:59:00</stop>
+      <stop tag="22256_ar" epochTime="36600000">10:10:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="35520000">09:52:00</stop>
+      <stop tag="22137" epochTime="35640000">09:54:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="-1">--</stop>
+      <stop tag="22159" epochTime="-1">--</stop>
+      <stop tag="22256_ar" epochTime="36600000">10:10:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="36720000">10:12:00</stop>
+      <stop tag="22137" epochTime="36840000">10:14:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="37020000">10:17:00</stop>
+      <stop tag="22159" epochTime="37140000">10:19:00</stop>
+      <stop tag="22256_ar" epochTime="37800000">10:30:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="37920000">10:32:00</stop>
+      <stop tag="22137" epochTime="38040000">10:34:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="38220000">10:37:00</stop>
+      <stop tag="22159" epochTime="38340000">10:39:00</stop>
+      <stop tag="22256_ar" epochTime="39000000">10:50:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="39120000">10:52:00</stop>
+      <stop tag="22137" epochTime="39240000">10:54:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="39420000">10:57:00</stop>
+      <stop tag="22159" epochTime="39540000">10:59:00</stop>
+      <stop tag="22256_ar" epochTime="40200000">11:10:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="40320000">11:12:00</stop>
+      <stop tag="22137" epochTime="40440000">11:14:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="40620000">11:17:00</stop>
+      <stop tag="22159" epochTime="40740000">11:19:00</stop>
+      <stop tag="22256_ar" epochTime="41400000">11:30:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="41520000">11:32:00</stop>
+      <stop tag="22137" epochTime="41640000">11:34:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="41820000">11:37:00</stop>
+      <stop tag="22159" epochTime="41940000">11:39:00</stop>
+      <stop tag="22256_ar" epochTime="42600000">11:50:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="42720000">11:52:00</stop>
+      <stop tag="22137" epochTime="42840000">11:54:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="43020000">11:57:00</stop>
+      <stop tag="22159" epochTime="43140000">11:59:00</stop>
+      <stop tag="22256_ar" epochTime="43800000">12:10:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="44520000">12:22:00</stop>
+      <stop tag="22137" epochTime="44640000">12:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="44820000">12:27:00</stop>
+      <stop tag="22159" epochTime="44940000">12:29:00</stop>
+      <stop tag="22256_ar" epochTime="45600000">12:40:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="45720000">12:42:00</stop>
+      <stop tag="22137" epochTime="45840000">12:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="46020000">12:47:00</stop>
+      <stop tag="22159" epochTime="46140000">12:49:00</stop>
+      <stop tag="22256_ar" epochTime="46800000">13:00:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="46920000">13:02:00</stop>
+      <stop tag="22137" epochTime="47040000">13:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="47220000">13:07:00</stop>
+      <stop tag="22159" epochTime="47340000">13:09:00</stop>
+      <stop tag="22256_ar" epochTime="48000000">13:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="48120000">13:22:00</stop>
+      <stop tag="22137" epochTime="48240000">13:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="48420000">13:27:00</stop>
+      <stop tag="22159" epochTime="48540000">13:29:00</stop>
+      <stop tag="22256_ar" epochTime="49200000">13:40:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="49320000">13:42:00</stop>
+      <stop tag="22137" epochTime="49440000">13:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="49620000">13:47:00</stop>
+      <stop tag="22159" epochTime="49740000">13:49:00</stop>
+      <stop tag="22256_ar" epochTime="50400000">14:00:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="50520000">14:02:00</stop>
+      <stop tag="22137" epochTime="50640000">14:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="50820000">14:07:00</stop>
+      <stop tag="22159" epochTime="50940000">14:09:00</stop>
+      <stop tag="22256_ar" epochTime="51600000">14:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="51720000">14:22:00</stop>
+      <stop tag="22137" epochTime="51840000">14:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="52020000">14:27:00</stop>
+      <stop tag="22159" epochTime="52140000">14:29:00</stop>
+      <stop tag="22256_ar" epochTime="52800000">14:40:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="52920000">14:42:00</stop>
+      <stop tag="22137" epochTime="53040000">14:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="53220000">14:47:00</stop>
+      <stop tag="22159" epochTime="53340000">14:49:00</stop>
+      <stop tag="22256_ar" epochTime="54000000">15:00:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="54120000">15:02:00</stop>
+      <stop tag="22137" epochTime="54240000">15:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="54420000">15:07:00</stop>
+      <stop tag="22159" epochTime="54540000">15:09:00</stop>
+      <stop tag="22256_ar" epochTime="55200000">15:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="55320000">15:22:00</stop>
+      <stop tag="22137" epochTime="55440000">15:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="55620000">15:27:00</stop>
+      <stop tag="22159" epochTime="55740000">15:29:00</stop>
+      <stop tag="22256_ar" epochTime="56400000">15:40:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="56520000">15:42:00</stop>
+      <stop tag="22137" epochTime="56640000">15:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="56820000">15:47:00</stop>
+      <stop tag="22159" epochTime="56940000">15:49:00</stop>
+      <stop tag="22256_ar" epochTime="57600000">16:00:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="57720000">16:02:00</stop>
+      <stop tag="22137" epochTime="57840000">16:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="58020000">16:07:00</stop>
+      <stop tag="22159" epochTime="58140000">16:09:00</stop>
+      <stop tag="22256_ar" epochTime="58800000">16:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="58920000">16:22:00</stop>
+      <stop tag="22137" epochTime="59040000">16:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="59220000">16:27:00</stop>
+      <stop tag="22159" epochTime="59340000">16:29:00</stop>
+      <stop tag="22256_ar" epochTime="60000000">16:40:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="60120000">16:42:00</stop>
+      <stop tag="22137" epochTime="60240000">16:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="60420000">16:47:00</stop>
+      <stop tag="22159" epochTime="60540000">16:49:00</stop>
+      <stop tag="22256_ar" epochTime="61200000">17:00:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="61320000">17:02:00</stop>
+      <stop tag="22137" epochTime="61440000">17:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="61620000">17:07:00</stop>
+      <stop tag="22159" epochTime="61740000">17:09:00</stop>
+      <stop tag="22256_ar" epochTime="62400000">17:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="62520000">17:22:00</stop>
+      <stop tag="22137" epochTime="62640000">17:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="62820000">17:27:00</stop>
+      <stop tag="22159" epochTime="62940000">17:29:00</stop>
+      <stop tag="22256_ar" epochTime="63600000">17:40:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="63720000">17:42:00</stop>
+      <stop tag="22137" epochTime="63840000">17:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="64020000">17:47:00</stop>
+      <stop tag="22159" epochTime="64140000">17:49:00</stop>
+      <stop tag="22256_ar" epochTime="64800000">18:00:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="64920000">18:02:00</stop>
+      <stop tag="22137" epochTime="65040000">18:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="65220000">18:07:00</stop>
+      <stop tag="22159" epochTime="65340000">18:09:00</stop>
+      <stop tag="22256_ar" epochTime="66000000">18:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="66120000">18:22:00</stop>
+      <stop tag="22137" epochTime="66240000">18:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="66420000">18:27:00</stop>
+      <stop tag="22159" epochTime="66540000">18:29:00</stop>
+      <stop tag="22256_ar" epochTime="67200000">18:40:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="67320000">18:42:00</stop>
+      <stop tag="22137" epochTime="67440000">18:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="67620000">18:47:00</stop>
+      <stop tag="22159" epochTime="67740000">18:49:00</stop>
+      <stop tag="22256_ar" epochTime="68400000">19:00:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="69720000">19:22:00</stop>
+      <stop tag="22137" epochTime="69840000">19:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="70020000">19:27:00</stop>
+      <stop tag="22159" epochTime="70140000">19:29:00</stop>
+      <stop tag="22256_ar" epochTime="70500000">19:35:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="71220000">19:47:00</stop>
+      <stop tag="22137" epochTime="71340000">19:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="71520000">19:52:00</stop>
+      <stop tag="22159" epochTime="71640000">19:54:00</stop>
+      <stop tag="22256_ar" epochTime="72000000">20:00:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="73320000">20:22:00</stop>
+      <stop tag="22137" epochTime="73440000">20:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="73620000">20:27:00</stop>
+      <stop tag="22159" epochTime="73740000">20:29:00</stop>
+      <stop tag="22256_ar" epochTime="74100000">20:35:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="74820000">20:47:00</stop>
+      <stop tag="22137" epochTime="74940000">20:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="75120000">20:52:00</stop>
+      <stop tag="22159" epochTime="75240000">20:54:00</stop>
+      <stop tag="22256_ar" epochTime="75600000">21:00:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="76920000">21:22:00</stop>
+      <stop tag="22137" epochTime="77040000">21:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="77220000">21:27:00</stop>
+      <stop tag="22159" epochTime="77340000">21:29:00</stop>
+      <stop tag="22256_ar" epochTime="77700000">21:35:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="78420000">21:47:00</stop>
+      <stop tag="22137" epochTime="78540000">21:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="78720000">21:52:00</stop>
+      <stop tag="22159" epochTime="78840000">21:54:00</stop>
+      <stop tag="22256_ar" epochTime="79200000">22:00:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="80520000">22:22:00</stop>
+      <stop tag="22137" epochTime="80640000">22:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="80820000">22:27:00</stop>
+      <stop tag="22159" epochTime="80940000">22:29:00</stop>
+      <stop tag="22256_ar" epochTime="81300000">22:35:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="82020000">22:47:00</stop>
+      <stop tag="22137" epochTime="82140000">22:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="82320000">22:52:00</stop>
+      <stop tag="22159" epochTime="82440000">22:54:00</stop>
+      <stop tag="22256_ar" epochTime="83100000">23:05:00</stop>
+    </tr>
+  </route>
+  <route tag="J" title="J" scheduleClass="20251222" serviceClass="Service03" direction="Outbound to N Sycamore">
+    <header>
+      <stop tag="22256">Silo Terminal &amp; Center Island (WB)</stop>
+      <stop tag="22160">Anderson Rd &amp; Russell Blvd (NB)</stop>
+      <stop tag="22154">Anderson Rd &amp; Hanover Drive/Anderson Plaza/SaveMart (NB)</stop>
+      <stop tag="22144_ar">North Sycamore Loop (NB)</stop>
+    </header>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="26100000">07:15:00</stop>
+      <stop tag="22160" epochTime="26340000">07:19:00</stop>
+      <stop tag="22154" epochTime="26520000">07:22:00</stop>
+      <stop tag="22144_ar" epochTime="26820000">07:27:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="27300000">07:35:00</stop>
+      <stop tag="22160" epochTime="27540000">07:39:00</stop>
+      <stop tag="22154" epochTime="27720000">07:42:00</stop>
+      <stop tag="22144_ar" epochTime="28020000">07:47:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="28500000">07:55:00</stop>
+      <stop tag="22160" epochTime="28740000">07:59:00</stop>
+      <stop tag="22154" epochTime="28920000">08:02:00</stop>
+      <stop tag="22144_ar" epochTime="29220000">08:07:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="29700000">08:15:00</stop>
+      <stop tag="22160" epochTime="29940000">08:19:00</stop>
+      <stop tag="22154" epochTime="30120000">08:22:00</stop>
+      <stop tag="22144_ar" epochTime="30420000">08:27:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="30900000">08:35:00</stop>
+      <stop tag="22160" epochTime="31140000">08:39:00</stop>
+      <stop tag="22154" epochTime="31320000">08:42:00</stop>
+      <stop tag="22144_ar" epochTime="31620000">08:47:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="32400000">09:00:00</stop>
+      <stop tag="22160" epochTime="32640000">09:04:00</stop>
+      <stop tag="22154" epochTime="32820000">09:07:00</stop>
+      <stop tag="22144_ar" epochTime="33120000">09:12:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="33600000">09:20:00</stop>
+      <stop tag="22160" epochTime="33840000">09:24:00</stop>
+      <stop tag="22154" epochTime="34020000">09:27:00</stop>
+      <stop tag="22144_ar" epochTime="34320000">09:32:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="34800000">09:40:00</stop>
+      <stop tag="22160" epochTime="35040000">09:44:00</stop>
+      <stop tag="22154" epochTime="35220000">09:47:00</stop>
+      <stop tag="22144_ar" epochTime="35520000">09:52:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="36000000">10:00:00</stop>
+      <stop tag="22160" epochTime="36240000">10:04:00</stop>
+      <stop tag="22154" epochTime="36420000">10:07:00</stop>
+      <stop tag="22144_ar" epochTime="36720000">10:12:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="37200000">10:20:00</stop>
+      <stop tag="22160" epochTime="37440000">10:24:00</stop>
+      <stop tag="22154" epochTime="37620000">10:27:00</stop>
+      <stop tag="22144_ar" epochTime="37920000">10:32:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="38400000">10:40:00</stop>
+      <stop tag="22160" epochTime="38640000">10:44:00</stop>
+      <stop tag="22154" epochTime="38820000">10:47:00</stop>
+      <stop tag="22144_ar" epochTime="39120000">10:52:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="39600000">11:00:00</stop>
+      <stop tag="22160" epochTime="39840000">11:04:00</stop>
+      <stop tag="22154" epochTime="40020000">11:07:00</stop>
+      <stop tag="22144_ar" epochTime="40320000">11:12:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="40800000">11:20:00</stop>
+      <stop tag="22160" epochTime="41040000">11:24:00</stop>
+      <stop tag="22154" epochTime="41220000">11:27:00</stop>
+      <stop tag="22144_ar" epochTime="41520000">11:32:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="42000000">11:40:00</stop>
+      <stop tag="22160" epochTime="42240000">11:44:00</stop>
+      <stop tag="22154" epochTime="42420000">11:47:00</stop>
+      <stop tag="22144_ar" epochTime="42720000">11:52:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="43800000">12:10:00</stop>
+      <stop tag="22160" epochTime="44040000">12:14:00</stop>
+      <stop tag="22154" epochTime="44220000">12:17:00</stop>
+      <stop tag="22144_ar" epochTime="44520000">12:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="45000000">12:30:00</stop>
+      <stop tag="22160" epochTime="45240000">12:34:00</stop>
+      <stop tag="22154" epochTime="45420000">12:37:00</stop>
+      <stop tag="22144_ar" epochTime="45720000">12:42:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="46200000">12:50:00</stop>
+      <stop tag="22160" epochTime="46440000">12:54:00</stop>
+      <stop tag="22154" epochTime="46620000">12:57:00</stop>
+      <stop tag="22144_ar" epochTime="46920000">13:02:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="47400000">13:10:00</stop>
+      <stop tag="22160" epochTime="47640000">13:14:00</stop>
+      <stop tag="22154" epochTime="47820000">13:17:00</stop>
+      <stop tag="22144_ar" epochTime="48120000">13:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="48600000">13:30:00</stop>
+      <stop tag="22160" epochTime="48840000">13:34:00</stop>
+      <stop tag="22154" epochTime="49020000">13:37:00</stop>
+      <stop tag="22144_ar" epochTime="49320000">13:42:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="49800000">13:50:00</stop>
+      <stop tag="22160" epochTime="50040000">13:54:00</stop>
+      <stop tag="22154" epochTime="50220000">13:57:00</stop>
+      <stop tag="22144_ar" epochTime="50520000">14:02:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="51000000">14:10:00</stop>
+      <stop tag="22160" epochTime="51240000">14:14:00</stop>
+      <stop tag="22154" epochTime="51420000">14:17:00</stop>
+      <stop tag="22144_ar" epochTime="51720000">14:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="52200000">14:30:00</stop>
+      <stop tag="22160" epochTime="52440000">14:34:00</stop>
+      <stop tag="22154" epochTime="52620000">14:37:00</stop>
+      <stop tag="22144_ar" epochTime="52920000">14:42:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="53400000">14:50:00</stop>
+      <stop tag="22160" epochTime="53640000">14:54:00</stop>
+      <stop tag="22154" epochTime="53820000">14:57:00</stop>
+      <stop tag="22144_ar" epochTime="54120000">15:02:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="54600000">15:10:00</stop>
+      <stop tag="22160" epochTime="54840000">15:14:00</stop>
+      <stop tag="22154" epochTime="55020000">15:17:00</stop>
+      <stop tag="22144_ar" epochTime="55320000">15:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="55800000">15:30:00</stop>
+      <stop tag="22160" epochTime="56040000">15:34:00</stop>
+      <stop tag="22154" epochTime="56220000">15:37:00</stop>
+      <stop tag="22144_ar" epochTime="56520000">15:42:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="57000000">15:50:00</stop>
+      <stop tag="22160" epochTime="57240000">15:54:00</stop>
+      <stop tag="22154" epochTime="57420000">15:57:00</stop>
+      <stop tag="22144_ar" epochTime="57720000">16:02:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="58200000">16:10:00</stop>
+      <stop tag="22160" epochTime="58440000">16:14:00</stop>
+      <stop tag="22154" epochTime="58620000">16:17:00</stop>
+      <stop tag="22144_ar" epochTime="58920000">16:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="59400000">16:30:00</stop>
+      <stop tag="22160" epochTime="59640000">16:34:00</stop>
+      <stop tag="22154" epochTime="59820000">16:37:00</stop>
+      <stop tag="22144_ar" epochTime="60120000">16:42:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="60600000">16:50:00</stop>
+      <stop tag="22160" epochTime="60840000">16:54:00</stop>
+      <stop tag="22154" epochTime="61020000">16:57:00</stop>
+      <stop tag="22144_ar" epochTime="61320000">17:02:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="61800000">17:10:00</stop>
+      <stop tag="22160" epochTime="62040000">17:14:00</stop>
+      <stop tag="22154" epochTime="62220000">17:17:00</stop>
+      <stop tag="22144_ar" epochTime="62520000">17:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="63000000">17:30:00</stop>
+      <stop tag="22160" epochTime="63240000">17:34:00</stop>
+      <stop tag="22154" epochTime="63420000">17:37:00</stop>
+      <stop tag="22144_ar" epochTime="63720000">17:42:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="64200000">17:50:00</stop>
+      <stop tag="22160" epochTime="64440000">17:54:00</stop>
+      <stop tag="22154" epochTime="64620000">17:57:00</stop>
+      <stop tag="22144_ar" epochTime="64920000">18:02:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="65400000">18:10:00</stop>
+      <stop tag="22160" epochTime="65640000">18:14:00</stop>
+      <stop tag="22154" epochTime="65820000">18:17:00</stop>
+      <stop tag="22144_ar" epochTime="66120000">18:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="66600000">18:30:00</stop>
+      <stop tag="22160" epochTime="66840000">18:34:00</stop>
+      <stop tag="22154" epochTime="67020000">18:37:00</stop>
+      <stop tag="22144_ar" epochTime="67320000">18:42:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="69000000">19:10:00</stop>
+      <stop tag="22160" epochTime="69240000">19:14:00</stop>
+      <stop tag="22154" epochTime="69420000">19:17:00</stop>
+      <stop tag="22144_ar" epochTime="69720000">19:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="70500000">19:35:00</stop>
+      <stop tag="22160" epochTime="70740000">19:39:00</stop>
+      <stop tag="22154" epochTime="70920000">19:42:00</stop>
+      <stop tag="22144_ar" epochTime="71220000">19:47:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="72600000">20:10:00</stop>
+      <stop tag="22160" epochTime="72840000">20:14:00</stop>
+      <stop tag="22154" epochTime="73020000">20:17:00</stop>
+      <stop tag="22144_ar" epochTime="73320000">20:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="74100000">20:35:00</stop>
+      <stop tag="22160" epochTime="74340000">20:39:00</stop>
+      <stop tag="22154" epochTime="74520000">20:42:00</stop>
+      <stop tag="22144_ar" epochTime="74820000">20:47:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="76200000">21:10:00</stop>
+      <stop tag="22160" epochTime="76440000">21:14:00</stop>
+      <stop tag="22154" epochTime="76620000">21:17:00</stop>
+      <stop tag="22144_ar" epochTime="76920000">21:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="77700000">21:35:00</stop>
+      <stop tag="22160" epochTime="77940000">21:39:00</stop>
+      <stop tag="22154" epochTime="78120000">21:42:00</stop>
+      <stop tag="22144_ar" epochTime="78420000">21:47:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="79800000">22:10:00</stop>
+      <stop tag="22160" epochTime="80040000">22:14:00</stop>
+      <stop tag="22154" epochTime="80220000">22:17:00</stop>
+      <stop tag="22144_ar" epochTime="80520000">22:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="81300000">22:35:00</stop>
+      <stop tag="22160" epochTime="81540000">22:39:00</stop>
+      <stop tag="22154" epochTime="81720000">22:42:00</stop>
+      <stop tag="22144_ar" epochTime="82020000">22:47:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="83400000">23:10:00</stop>
+      <stop tag="22160" epochTime="83640000">23:14:00</stop>
+      <stop tag="22154" epochTime="83820000">23:17:00</stop>
+      <stop tag="22144_ar" epochTime="84120000">23:22:00</stop>
+    </tr>
+  </route>
+  <route tag="J" title="J" scheduleClass="20251222" serviceClass="Wednesday" direction="Inbound to UCD Silo">
+    <header>
+      <stop tag="22144">North Sycamore Loop (NB)</stop>
+      <stop tag="22137">Alvarado Ave &amp; Sycamore (EB)</stop>
+      <stop tag="22135">Alvarado Ave &amp; Anderson (EB)</stop>
+      <stop tag="22155">Anderson Rd &amp; Hanover Drive/Anderson Plaza/SaveMart (SB)</stop>
+      <stop tag="22159">Anderson Rd &amp; Russell Blvd (SB)</stop>
+      <stop tag="22256_ar">Silo Terminal &amp; Center Island (WB)</stop>
+    </header>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="25020000">06:57:00</stop>
+      <stop tag="22137" epochTime="25140000">06:59:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="25320000">07:02:00</stop>
+      <stop tag="22159" epochTime="25440000">07:04:00</stop>
+      <stop tag="22256_ar" epochTime="26100000">07:15:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="-1">--</stop>
+      <stop tag="22137" epochTime="-1">--</stop>
+      <stop tag="22135" epochTime="27000000">07:30:00</stop>
+      <stop tag="22155" epochTime="27120000">07:32:00</stop>
+      <stop tag="22159" epochTime="27240000">07:34:00</stop>
+      <stop tag="22256_ar" epochTime="28200000">07:50:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="26820000">07:27:00</stop>
+      <stop tag="22137" epochTime="26940000">07:29:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="-1">--</stop>
+      <stop tag="22159" epochTime="-1">--</stop>
+      <stop tag="22256_ar" epochTime="28200000">07:50:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="28020000">07:47:00</stop>
+      <stop tag="22137" epochTime="28140000">07:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="28320000">07:52:00</stop>
+      <stop tag="22159" epochTime="28440000">07:54:00</stop>
+      <stop tag="22256_ar" epochTime="29100000">08:05:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="29220000">08:07:00</stop>
+      <stop tag="22137" epochTime="29340000">08:09:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="29520000">08:12:00</stop>
+      <stop tag="22159" epochTime="29640000">08:14:00</stop>
+      <stop tag="22256_ar" epochTime="30300000">08:25:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="-1">--</stop>
+      <stop tag="22137" epochTime="-1">--</stop>
+      <stop tag="22135" epochTime="30600000">08:30:00</stop>
+      <stop tag="22155" epochTime="30720000">08:32:00</stop>
+      <stop tag="22159" epochTime="30840000">08:34:00</stop>
+      <stop tag="22256_ar" epochTime="31800000">08:50:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="30420000">08:27:00</stop>
+      <stop tag="22137" epochTime="30540000">08:29:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="-1">--</stop>
+      <stop tag="22159" epochTime="-1">--</stop>
+      <stop tag="22256_ar" epochTime="31800000">08:50:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="31620000">08:47:00</stop>
+      <stop tag="22137" epochTime="31740000">08:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="31920000">08:52:00</stop>
+      <stop tag="22159" epochTime="32040000">08:54:00</stop>
+      <stop tag="22256_ar" epochTime="32700000">09:05:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="33120000">09:12:00</stop>
+      <stop tag="22137" epochTime="33240000">09:14:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="33420000">09:17:00</stop>
+      <stop tag="22159" epochTime="33540000">09:19:00</stop>
+      <stop tag="22256_ar" epochTime="34200000">09:30:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="-1">--</stop>
+      <stop tag="22137" epochTime="-1">--</stop>
+      <stop tag="22135" epochTime="34500000">09:35:00</stop>
+      <stop tag="22155" epochTime="34620000">09:37:00</stop>
+      <stop tag="22159" epochTime="34740000">09:39:00</stop>
+      <stop tag="22256_ar" epochTime="35400000">09:50:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="34320000">09:32:00</stop>
+      <stop tag="22137" epochTime="34440000">09:34:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="-1">--</stop>
+      <stop tag="22159" epochTime="-1">--</stop>
+      <stop tag="22256_ar" epochTime="35400000">09:50:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="35520000">09:52:00</stop>
+      <stop tag="22137" epochTime="35640000">09:54:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="35820000">09:57:00</stop>
+      <stop tag="22159" epochTime="35940000">09:59:00</stop>
+      <stop tag="22256_ar" epochTime="36600000">10:10:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="36720000">10:12:00</stop>
+      <stop tag="22137" epochTime="36840000">10:14:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="37020000">10:17:00</stop>
+      <stop tag="22159" epochTime="37140000">10:19:00</stop>
+      <stop tag="22256_ar" epochTime="37800000">10:30:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="-1">--</stop>
+      <stop tag="22137" epochTime="-1">--</stop>
+      <stop tag="22135" epochTime="38100000">10:35:00</stop>
+      <stop tag="22155" epochTime="38220000">10:37:00</stop>
+      <stop tag="22159" epochTime="38340000">10:39:00</stop>
+      <stop tag="22256_ar" epochTime="39000000">10:50:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="37920000">10:32:00</stop>
+      <stop tag="22137" epochTime="38040000">10:34:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="-1">--</stop>
+      <stop tag="22159" epochTime="-1">--</stop>
+      <stop tag="22256_ar" epochTime="39000000">10:50:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="39120000">10:52:00</stop>
+      <stop tag="22137" epochTime="39240000">10:54:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="39420000">10:57:00</stop>
+      <stop tag="22159" epochTime="39540000">10:59:00</stop>
+      <stop tag="22256_ar" epochTime="40200000">11:10:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="40320000">11:12:00</stop>
+      <stop tag="22137" epochTime="40440000">11:14:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="40620000">11:17:00</stop>
+      <stop tag="22159" epochTime="40740000">11:19:00</stop>
+      <stop tag="22256_ar" epochTime="41400000">11:30:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="-1">--</stop>
+      <stop tag="22137" epochTime="-1">--</stop>
+      <stop tag="22135" epochTime="41700000">11:35:00</stop>
+      <stop tag="22155" epochTime="41820000">11:37:00</stop>
+      <stop tag="22159" epochTime="41940000">11:39:00</stop>
+      <stop tag="22256_ar" epochTime="42600000">11:50:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="41520000">11:32:00</stop>
+      <stop tag="22137" epochTime="41640000">11:34:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="-1">--</stop>
+      <stop tag="22159" epochTime="-1">--</stop>
+      <stop tag="22256_ar" epochTime="42600000">11:50:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="42720000">11:52:00</stop>
+      <stop tag="22137" epochTime="42840000">11:54:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="43020000">11:57:00</stop>
+      <stop tag="22159" epochTime="43140000">11:59:00</stop>
+      <stop tag="22256_ar" epochTime="43800000">12:10:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="44520000">12:22:00</stop>
+      <stop tag="22137" epochTime="44640000">12:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="44820000">12:27:00</stop>
+      <stop tag="22159" epochTime="44940000">12:29:00</stop>
+      <stop tag="22256_ar" epochTime="45600000">12:40:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="45720000">12:42:00</stop>
+      <stop tag="22137" epochTime="45840000">12:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="46020000">12:47:00</stop>
+      <stop tag="22159" epochTime="46140000">12:49:00</stop>
+      <stop tag="22256_ar" epochTime="46800000">13:00:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="46920000">13:02:00</stop>
+      <stop tag="22137" epochTime="47040000">13:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="47220000">13:07:00</stop>
+      <stop tag="22159" epochTime="47340000">13:09:00</stop>
+      <stop tag="22256_ar" epochTime="48000000">13:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="48120000">13:22:00</stop>
+      <stop tag="22137" epochTime="48240000">13:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="48420000">13:27:00</stop>
+      <stop tag="22159" epochTime="48540000">13:29:00</stop>
+      <stop tag="22256_ar" epochTime="49200000">13:40:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="49320000">13:42:00</stop>
+      <stop tag="22137" epochTime="49440000">13:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="49620000">13:47:00</stop>
+      <stop tag="22159" epochTime="49740000">13:49:00</stop>
+      <stop tag="22256_ar" epochTime="50400000">14:00:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="50520000">14:02:00</stop>
+      <stop tag="22137" epochTime="50640000">14:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="50820000">14:07:00</stop>
+      <stop tag="22159" epochTime="50940000">14:09:00</stop>
+      <stop tag="22256_ar" epochTime="51600000">14:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="51720000">14:22:00</stop>
+      <stop tag="22137" epochTime="51840000">14:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="52020000">14:27:00</stop>
+      <stop tag="22159" epochTime="52140000">14:29:00</stop>
+      <stop tag="22256_ar" epochTime="52800000">14:40:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="52920000">14:42:00</stop>
+      <stop tag="22137" epochTime="53040000">14:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="53220000">14:47:00</stop>
+      <stop tag="22159" epochTime="53340000">14:49:00</stop>
+      <stop tag="22256_ar" epochTime="54000000">15:00:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="54120000">15:02:00</stop>
+      <stop tag="22137" epochTime="54240000">15:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="54420000">15:07:00</stop>
+      <stop tag="22159" epochTime="54540000">15:09:00</stop>
+      <stop tag="22256_ar" epochTime="55200000">15:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="55320000">15:22:00</stop>
+      <stop tag="22137" epochTime="55440000">15:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="55620000">15:27:00</stop>
+      <stop tag="22159" epochTime="55740000">15:29:00</stop>
+      <stop tag="22256_ar" epochTime="56400000">15:40:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="56520000">15:42:00</stop>
+      <stop tag="22137" epochTime="56640000">15:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="56820000">15:47:00</stop>
+      <stop tag="22159" epochTime="56940000">15:49:00</stop>
+      <stop tag="22256_ar" epochTime="57600000">16:00:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="57720000">16:02:00</stop>
+      <stop tag="22137" epochTime="57840000">16:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="58020000">16:07:00</stop>
+      <stop tag="22159" epochTime="58140000">16:09:00</stop>
+      <stop tag="22256_ar" epochTime="58800000">16:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="58920000">16:22:00</stop>
+      <stop tag="22137" epochTime="59040000">16:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="59220000">16:27:00</stop>
+      <stop tag="22159" epochTime="59340000">16:29:00</stop>
+      <stop tag="22256_ar" epochTime="60000000">16:40:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="60120000">16:42:00</stop>
+      <stop tag="22137" epochTime="60240000">16:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="60420000">16:47:00</stop>
+      <stop tag="22159" epochTime="60540000">16:49:00</stop>
+      <stop tag="22256_ar" epochTime="61200000">17:00:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="61320000">17:02:00</stop>
+      <stop tag="22137" epochTime="61440000">17:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="61620000">17:07:00</stop>
+      <stop tag="22159" epochTime="61740000">17:09:00</stop>
+      <stop tag="22256_ar" epochTime="62400000">17:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="62520000">17:22:00</stop>
+      <stop tag="22137" epochTime="62640000">17:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="62820000">17:27:00</stop>
+      <stop tag="22159" epochTime="62940000">17:29:00</stop>
+      <stop tag="22256_ar" epochTime="63600000">17:40:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="63720000">17:42:00</stop>
+      <stop tag="22137" epochTime="63840000">17:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="64020000">17:47:00</stop>
+      <stop tag="22159" epochTime="64140000">17:49:00</stop>
+      <stop tag="22256_ar" epochTime="64800000">18:00:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="64920000">18:02:00</stop>
+      <stop tag="22137" epochTime="65040000">18:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="65220000">18:07:00</stop>
+      <stop tag="22159" epochTime="65340000">18:09:00</stop>
+      <stop tag="22256_ar" epochTime="66000000">18:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="66120000">18:22:00</stop>
+      <stop tag="22137" epochTime="66240000">18:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="66420000">18:27:00</stop>
+      <stop tag="22159" epochTime="66540000">18:29:00</stop>
+      <stop tag="22256_ar" epochTime="67200000">18:40:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22144" epochTime="67320000">18:42:00</stop>
+      <stop tag="22137" epochTime="67440000">18:44:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="67620000">18:47:00</stop>
+      <stop tag="22159" epochTime="67740000">18:49:00</stop>
+      <stop tag="22256_ar" epochTime="68400000">19:00:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="68520000">19:02:00</stop>
+      <stop tag="22137" epochTime="68640000">19:04:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="68820000">19:07:00</stop>
+      <stop tag="22159" epochTime="68940000">19:09:00</stop>
+      <stop tag="22256_ar" epochTime="69600000">19:20:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="69720000">19:22:00</stop>
+      <stop tag="22137" epochTime="69840000">19:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="70020000">19:27:00</stop>
+      <stop tag="22159" epochTime="70140000">19:29:00</stop>
+      <stop tag="22256_ar" epochTime="70500000">19:35:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22144" epochTime="71220000">19:47:00</stop>
+      <stop tag="22137" epochTime="71340000">19:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="71520000">19:52:00</stop>
+      <stop tag="22159" epochTime="71640000">19:54:00</stop>
+      <stop tag="22256_ar" epochTime="72000000">20:00:00</stop>
+    </tr>
+    <tr blockID="13">
+      <stop tag="22144" epochTime="73320000">20:22:00</stop>
+      <stop tag="22137" epochTime="73440000">20:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="73620000">20:27:00</stop>
+      <stop tag="22159" epochTime="73740000">20:29:00</stop>
+      <stop tag="22256_ar" epochTime="74100000">20:35:00</stop>
+    </tr>
+    <tr blockID="8">
+      <stop tag="22144" epochTime="74820000">20:47:00</stop>
+      <stop tag="22137" epochTime="74940000">20:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="75120000">20:52:00</stop>
+      <stop tag="22159" epochTime="75240000">20:54:00</stop>
+      <stop tag="22256_ar" epochTime="75900000">21:05:00</stop>
+    </tr>
+    <tr blockID="8">
+      <stop tag="22144" epochTime="76920000">21:22:00</stop>
+      <stop tag="22137" epochTime="77040000">21:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="77220000">21:27:00</stop>
+      <stop tag="22159" epochTime="77340000">21:29:00</stop>
+      <stop tag="22256_ar" epochTime="77700000">21:35:00</stop>
+    </tr>
+    <tr blockID="9">
+      <stop tag="22144" epochTime="78420000">21:47:00</stop>
+      <stop tag="22137" epochTime="78540000">21:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="78720000">21:52:00</stop>
+      <stop tag="22159" epochTime="78840000">21:54:00</stop>
+      <stop tag="22256_ar" epochTime="79500000">22:05:00</stop>
+    </tr>
+    <tr blockID="8">
+      <stop tag="22144" epochTime="80520000">22:22:00</stop>
+      <stop tag="22137" epochTime="80640000">22:24:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="80820000">22:27:00</stop>
+      <stop tag="22159" epochTime="80940000">22:29:00</stop>
+      <stop tag="22256_ar" epochTime="81300000">22:35:00</stop>
+    </tr>
+    <tr blockID="1">
+      <stop tag="22144" epochTime="82020000">22:47:00</stop>
+      <stop tag="22137" epochTime="82140000">22:49:00</stop>
+      <stop tag="22135" epochTime="-1">--</stop>
+      <stop tag="22155" epochTime="82320000">22:52:00</stop>
+      <stop tag="22159" epochTime="82440000">22:54:00</stop>
+      <stop tag="22256_ar" epochTime="83100000">23:05:00</stop>
+    </tr>
+  </route>
+  <route tag="J" title="J" scheduleClass="20251222" serviceClass="Wednesday" direction="Outbound to N Sycamore">
+    <header>
+      <stop tag="22256">Silo Terminal &amp; Center Island (WB)</stop>
+      <stop tag="22160">Anderson Rd &amp; Russell Blvd (NB)</stop>
+      <stop tag="22154">Anderson Rd &amp; Hanover Drive/Anderson Plaza/SaveMart (NB)</stop>
+      <stop tag="22144_ar">North Sycamore Loop (NB)</stop>
+    </header>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="26100000">07:15:00</stop>
+      <stop tag="22160" epochTime="26340000">07:19:00</stop>
+      <stop tag="22154" epochTime="26520000">07:22:00</stop>
+      <stop tag="22144_ar" epochTime="26820000">07:27:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="27300000">07:35:00</stop>
+      <stop tag="22160" epochTime="27540000">07:39:00</stop>
+      <stop tag="22154" epochTime="27720000">07:42:00</stop>
+      <stop tag="22144_ar" epochTime="28020000">07:47:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="28500000">07:55:00</stop>
+      <stop tag="22160" epochTime="28740000">07:59:00</stop>
+      <stop tag="22154" epochTime="28920000">08:02:00</stop>
+      <stop tag="22144_ar" epochTime="29220000">08:07:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="29700000">08:15:00</stop>
+      <stop tag="22160" epochTime="29940000">08:19:00</stop>
+      <stop tag="22154" epochTime="30120000">08:22:00</stop>
+      <stop tag="22144_ar" epochTime="30420000">08:27:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="30900000">08:35:00</stop>
+      <stop tag="22160" epochTime="31140000">08:39:00</stop>
+      <stop tag="22154" epochTime="31320000">08:42:00</stop>
+      <stop tag="22144_ar" epochTime="31620000">08:47:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="32400000">09:00:00</stop>
+      <stop tag="22160" epochTime="32640000">09:04:00</stop>
+      <stop tag="22154" epochTime="32820000">09:07:00</stop>
+      <stop tag="22144_ar" epochTime="33120000">09:12:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="33600000">09:20:00</stop>
+      <stop tag="22160" epochTime="33840000">09:24:00</stop>
+      <stop tag="22154" epochTime="34020000">09:27:00</stop>
+      <stop tag="22144_ar" epochTime="34320000">09:32:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="34800000">09:40:00</stop>
+      <stop tag="22160" epochTime="35040000">09:44:00</stop>
+      <stop tag="22154" epochTime="35220000">09:47:00</stop>
+      <stop tag="22144_ar" epochTime="35520000">09:52:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="36000000">10:00:00</stop>
+      <stop tag="22160" epochTime="36240000">10:04:00</stop>
+      <stop tag="22154" epochTime="36420000">10:07:00</stop>
+      <stop tag="22144_ar" epochTime="36720000">10:12:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="37200000">10:20:00</stop>
+      <stop tag="22160" epochTime="37440000">10:24:00</stop>
+      <stop tag="22154" epochTime="37620000">10:27:00</stop>
+      <stop tag="22144_ar" epochTime="37920000">10:32:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="38400000">10:40:00</stop>
+      <stop tag="22160" epochTime="38640000">10:44:00</stop>
+      <stop tag="22154" epochTime="38820000">10:47:00</stop>
+      <stop tag="22144_ar" epochTime="39120000">10:52:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="39600000">11:00:00</stop>
+      <stop tag="22160" epochTime="39840000">11:04:00</stop>
+      <stop tag="22154" epochTime="40020000">11:07:00</stop>
+      <stop tag="22144_ar" epochTime="40320000">11:12:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="40800000">11:20:00</stop>
+      <stop tag="22160" epochTime="41040000">11:24:00</stop>
+      <stop tag="22154" epochTime="41220000">11:27:00</stop>
+      <stop tag="22144_ar" epochTime="41520000">11:32:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="42000000">11:40:00</stop>
+      <stop tag="22160" epochTime="42240000">11:44:00</stop>
+      <stop tag="22154" epochTime="42420000">11:47:00</stop>
+      <stop tag="22144_ar" epochTime="42720000">11:52:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="43800000">12:10:00</stop>
+      <stop tag="22160" epochTime="44040000">12:14:00</stop>
+      <stop tag="22154" epochTime="44220000">12:17:00</stop>
+      <stop tag="22144_ar" epochTime="44520000">12:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="45000000">12:30:00</stop>
+      <stop tag="22160" epochTime="45240000">12:34:00</stop>
+      <stop tag="22154" epochTime="45420000">12:37:00</stop>
+      <stop tag="22144_ar" epochTime="45720000">12:42:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="46200000">12:50:00</stop>
+      <stop tag="22160" epochTime="46440000">12:54:00</stop>
+      <stop tag="22154" epochTime="46620000">12:57:00</stop>
+      <stop tag="22144_ar" epochTime="46920000">13:02:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="47400000">13:10:00</stop>
+      <stop tag="22160" epochTime="47640000">13:14:00</stop>
+      <stop tag="22154" epochTime="47820000">13:17:00</stop>
+      <stop tag="22144_ar" epochTime="48120000">13:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="48600000">13:30:00</stop>
+      <stop tag="22160" epochTime="48840000">13:34:00</stop>
+      <stop tag="22154" epochTime="49020000">13:37:00</stop>
+      <stop tag="22144_ar" epochTime="49320000">13:42:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="49800000">13:50:00</stop>
+      <stop tag="22160" epochTime="50040000">13:54:00</stop>
+      <stop tag="22154" epochTime="50220000">13:57:00</stop>
+      <stop tag="22144_ar" epochTime="50520000">14:02:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="51000000">14:10:00</stop>
+      <stop tag="22160" epochTime="51240000">14:14:00</stop>
+      <stop tag="22154" epochTime="51420000">14:17:00</stop>
+      <stop tag="22144_ar" epochTime="51720000">14:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="52200000">14:30:00</stop>
+      <stop tag="22160" epochTime="52440000">14:34:00</stop>
+      <stop tag="22154" epochTime="52620000">14:37:00</stop>
+      <stop tag="22144_ar" epochTime="52920000">14:42:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="53400000">14:50:00</stop>
+      <stop tag="22160" epochTime="53640000">14:54:00</stop>
+      <stop tag="22154" epochTime="53820000">14:57:00</stop>
+      <stop tag="22144_ar" epochTime="54120000">15:02:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="54600000">15:10:00</stop>
+      <stop tag="22160" epochTime="54840000">15:14:00</stop>
+      <stop tag="22154" epochTime="55020000">15:17:00</stop>
+      <stop tag="22144_ar" epochTime="55320000">15:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="55800000">15:30:00</stop>
+      <stop tag="22160" epochTime="56040000">15:34:00</stop>
+      <stop tag="22154" epochTime="56220000">15:37:00</stop>
+      <stop tag="22144_ar" epochTime="56520000">15:42:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="57000000">15:50:00</stop>
+      <stop tag="22160" epochTime="57240000">15:54:00</stop>
+      <stop tag="22154" epochTime="57420000">15:57:00</stop>
+      <stop tag="22144_ar" epochTime="57720000">16:02:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="58200000">16:10:00</stop>
+      <stop tag="22160" epochTime="58440000">16:14:00</stop>
+      <stop tag="22154" epochTime="58620000">16:17:00</stop>
+      <stop tag="22144_ar" epochTime="58920000">16:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="59400000">16:30:00</stop>
+      <stop tag="22160" epochTime="59640000">16:34:00</stop>
+      <stop tag="22154" epochTime="59820000">16:37:00</stop>
+      <stop tag="22144_ar" epochTime="60120000">16:42:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="60600000">16:50:00</stop>
+      <stop tag="22160" epochTime="60840000">16:54:00</stop>
+      <stop tag="22154" epochTime="61020000">16:57:00</stop>
+      <stop tag="22144_ar" epochTime="61320000">17:02:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="61800000">17:10:00</stop>
+      <stop tag="22160" epochTime="62040000">17:14:00</stop>
+      <stop tag="22154" epochTime="62220000">17:17:00</stop>
+      <stop tag="22144_ar" epochTime="62520000">17:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="63000000">17:30:00</stop>
+      <stop tag="22160" epochTime="63240000">17:34:00</stop>
+      <stop tag="22154" epochTime="63420000">17:37:00</stop>
+      <stop tag="22144_ar" epochTime="63720000">17:42:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="64200000">17:50:00</stop>
+      <stop tag="22160" epochTime="64440000">17:54:00</stop>
+      <stop tag="22154" epochTime="64620000">17:57:00</stop>
+      <stop tag="22144_ar" epochTime="64920000">18:02:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="65400000">18:10:00</stop>
+      <stop tag="22160" epochTime="65640000">18:14:00</stop>
+      <stop tag="22154" epochTime="65820000">18:17:00</stop>
+      <stop tag="22144_ar" epochTime="66120000">18:22:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="66600000">18:30:00</stop>
+      <stop tag="22160" epochTime="66840000">18:34:00</stop>
+      <stop tag="22154" epochTime="67020000">18:37:00</stop>
+      <stop tag="22144_ar" epochTime="67320000">18:42:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="67800000">18:50:00</stop>
+      <stop tag="22160" epochTime="68040000">18:54:00</stop>
+      <stop tag="22154" epochTime="68220000">18:57:00</stop>
+      <stop tag="22144_ar" epochTime="68520000">19:02:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="69000000">19:10:00</stop>
+      <stop tag="22160" epochTime="69240000">19:14:00</stop>
+      <stop tag="22154" epochTime="69420000">19:17:00</stop>
+      <stop tag="22144_ar" epochTime="69720000">19:22:00</stop>
+    </tr>
+    <tr blockID="4">
+      <stop tag="22256" epochTime="70500000">19:35:00</stop>
+      <stop tag="22160" epochTime="70740000">19:39:00</stop>
+      <stop tag="22154" epochTime="70920000">19:42:00</stop>
+      <stop tag="22144_ar" epochTime="71220000">19:47:00</stop>
+    </tr>
+    <tr blockID="3">
+      <stop tag="22256" epochTime="72600000">20:10:00</stop>
+      <stop tag="22160" epochTime="72840000">20:14:00</stop>
+      <stop tag="22154" epochTime="73020000">20:17:00</stop>
+      <stop tag="22144_ar" epochTime="73320000">20:22:00</stop>
+    </tr>
+    <tr blockID="8">
+      <stop tag="22256" epochTime="74100000">20:35:00</stop>
+      <stop tag="22160" epochTime="74340000">20:39:00</stop>
+      <stop tag="22154" epochTime="74520000">20:42:00</stop>
+      <stop tag="22144_ar" epochTime="74820000">20:47:00</stop>
+    </tr>
+    <tr blockID="8">
+      <stop tag="22256" epochTime="76200000">21:10:00</stop>
+      <stop tag="22160" epochTime="76440000">21:14:00</stop>
+      <stop tag="22154" epochTime="76620000">21:17:00</stop>
+      <stop tag="22144_ar" epochTime="76920000">21:22:00</stop>
+    </tr>
+    <tr blockID="9">
+      <stop tag="22256" epochTime="77700000">21:35:00</stop>
+      <stop tag="22160" epochTime="77940000">21:39:00</stop>
+      <stop tag="22154" epochTime="78120000">21:42:00</stop>
+      <stop tag="22144_ar" epochTime="78420000">21:47:00</stop>
+    </tr>
+    <tr blockID="8">
+      <stop tag="22256" epochTime="79800000">22:10:00</stop>
+      <stop tag="22160" epochTime="80040000">22:14:00</stop>
+      <stop tag="22154" epochTime="80220000">22:17:00</stop>
+      <stop tag="22144_ar" epochTime="80520000">22:22:00</stop>
+    </tr>
+    <tr blockID="1">
+      <stop tag="22256" epochTime="81300000">22:35:00</stop>
+      <stop tag="22160" epochTime="81540000">22:39:00</stop>
+      <stop tag="22154" epochTime="81720000">22:42:00</stop>
+      <stop tag="22144_ar" epochTime="82020000">22:47:00</stop>
+    </tr>
+  </route>
+</body>

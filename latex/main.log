@@ -1,0 +1,254 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.3.9)  15 MAR 2026 00:25
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count196
+))
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count197
+\float@exts=\toks18
+\float@box=\box51
+\@float@everytoks=\toks19
+\@floatcapt=\box52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box53
+)
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count199
+\scratchdimen=\dimen151
+\scratchbox=\box54
+\nofMPsegments=\count266
+\nofMParguments=\count267
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count268
+\MPscratchDim=\dimen152
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 14.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5]
+<figs/fig1.png, id=23, 565.11125pt x 454.69875pt>
+File: figs/fig1.png Graphic file (type png)
+<use figs/fig1.png>
+Package pdftex.def Info: figs/fig1.png  used on input line 60.
+(pdftex.def)             Requested size: 469.75502pt x 377.98267pt.
+<figs/fig2.png, id=25, 1043.9pt x 701.62125pt>
+File: figs/fig2.png Graphic file (type png)
+<use figs/fig2.png>
+Package pdftex.def Info: figs/fig2.png  used on input line 65.
+(pdftex.def)             Requested size: 469.75502pt x 315.72664pt.
+<figs/fig3.png, id=26, 591.20876pt x 454.69875pt>
+File: figs/fig3.png Graphic file (type png)
+<use figs/fig3.png>
+Package pdftex.def Info: figs/fig3.png  used on input line 70.
+(pdftex.def)             Requested size: 469.75502pt x 361.29645pt.
+ [6 <./figs/fig1.png>]
+<figs/fig4.png, id=31, 992.70876pt x 491.8375pt>
+File: figs/fig4.png Graphic file (type png)
+<use figs/fig4.png>
+Package pdftex.def Info: figs/fig4.png  used on input line 75.
+(pdftex.def)             Requested size: 469.75502pt x 232.73965pt.
+ [7 <./figs/fig2.png>]
+<figs/fig5.png, id=37, 959.585pt x 701.62125pt>
+File: figs/fig5.png Graphic file (type png)
+<use figs/fig5.png>
+Package pdftex.def Info: figs/fig5.png  used on input line 80.
+(pdftex.def)             Requested size: 469.75502pt x 343.47624pt.
+ [8 <./figs/fig3.png>]
+<figs/fig6.png, id=42, 1312.905pt x 893.3375pt>
+File: figs/fig6.png Graphic file (type png)
+<use figs/fig6.png>
+Package pdftex.def Info: figs/fig6.png  used on input line 85.
+(pdftex.def)             Requested size: 469.75502pt x 319.63835pt.
+<figs/fig7.png, id=43, 948.54375pt x 378.41376pt>
+File: figs/fig7.png Graphic file (type png)
+<use figs/fig7.png>
+Package pdftex.def Info: figs/fig7.png  used on input line 90.
+(pdftex.def)             Requested size: 469.75502pt x 187.40488pt.
+ [9 <./figs/fig4.png> <./figs/fig5.png (PNG copy)>] [10 <./figs/fig6.png> <./fi
+gs/fig7.png>]
+(./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 2816 strings out of 476034
+ 45293 string characters out of 5792865
+ 1863388 words of memory out of 6000000
+ 23262 multiletter control sequences out of 15000+600000
+ 516095 words of font info for 45 fonts, out of 8000000 for 9000
+ 1137 hyphenation exceptions out of 8191
+ 57i,6n,62p,2148b,230s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmb
+x12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on main.pdf (10 pages, 575070 bytes).
+PDF statistics:
+ 81 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
